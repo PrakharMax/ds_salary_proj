@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import time
 
-def get_job(job_title='Data Scientist', location='New York, NY', num_jobs=10):
+def get_job(job_title, location, num_jobs):
     chrome_driver_path = "C:/Users/prakasp2/PycharmProjects/ds_salary_proj/chromedriver-win64/chromedriver.exe"
     service = Service(executable_path=chrome_driver_path)
 
@@ -16,8 +16,13 @@ def get_job(job_title='Data Scientist', location='New York, NY', num_jobs=10):
 
     driver = webdriver.Chrome(service=service, options=options)
     wait = WebDriverWait(driver, 20)
+    
+    
+    #url = f"https://www.glassdoor.com/Job/{location_formatted}-{job_title_formatted}-jobs-SRCH_IL.0,0.htm"
 
-    url = f"https://www.glassdoor.com/Job/jobs.htm?sc.keyword={job_title.replace(' ', '%20')}&locKeyword={location.replace(' ', '%20')}"
+    url="https://www.glassdoor.com/Job/united-states-data-scientist-jobs-SRCH_IL.0,13_IN1_KO14,28.htm"
+    #url = f"https://www.glassdoor.com/Job/jobs.htm?sc.keyword={job_title.replace(' ', '%20')}&locKeyword={location.replace(' ', '%20')}"
+    print(url)
     driver.get(url)
 
     try:
