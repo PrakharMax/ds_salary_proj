@@ -12,7 +12,7 @@ def get_job(job_title='Data Scientist', location='New York, NY', num_jobs=10):
 
     options = webdriver.ChromeOptions()
     options.add_argument("--window-size=1920,1080")
-    # options.add_argument("--headless")  # comment out to debug visually
+   # options.add_argument("--headless")  # comment out to debug visually
 
     driver = webdriver.Chrome(service=service, options=options)
     wait = WebDriverWait(driver, 20)
@@ -43,6 +43,11 @@ def get_job(job_title='Data Scientist', location='New York, NY', num_jobs=10):
 
             location_elem = card.find_element(By.CSS_SELECTOR, 'div[data-test="emp-location"]')
             location_text = location_elem.text.strip()
+            
+            try:
+                company_rating = card.find_element(By.CSS_SELECTOR, 'span.rating-single-star_RatingText__XENmU').text.strip()
+            except:
+                    company_rating = None
 
             try:
                 salary_elem = card.find_element(By.CSS_SELECTOR, 'div[data-test="detailSalary"]')
@@ -54,7 +59,8 @@ def get_job(job_title='Data Scientist', location='New York, NY', num_jobs=10):
                 'title': title,
                 'company': company,
                 'location': location_text,
-                'salary': salary
+                'salary': salary,
+                'Company rating': company_rating
             })
         except Exception as e:
             print(f"Error parsing job card: {e}")
