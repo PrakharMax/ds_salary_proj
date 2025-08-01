@@ -15,7 +15,7 @@ def get_glassdoor_jobs(num_jobs=100):
                          "Chrome/114.0.0.0 Safari/537.36")
 
     driver = uc.Chrome(options=options)
-    wait = WebDriverWait(driver, 20)
+    wait = WebDriverWait(driver, 25)
 
     url = "https://www.glassdoor.com/Job/united-states-data-scientist-jobs-SRCH_IL.0,13_IN1_KO14,28.htm"
     print(f"Opening URL: {url}")
@@ -25,7 +25,7 @@ def get_glassdoor_jobs(num_jobs=100):
     jobs = []
     seen_ids = set()  # Will store (title, company, location) tuples now
     popup_closed = False
-    max_clicks = 5
+    max_clicks =50
     clicks = 0
 
     while len(jobs) < num_jobs and clicks < max_clicks:
@@ -108,7 +108,7 @@ def get_glassdoor_jobs(num_jobs=100):
 
 
 if __name__ == "__main__":
-    df = get_glassdoor_jobs(500)
+    df = get_glassdoor_jobs(1000)
     print(df.head())
-    df.to_csv("glassdoor_jobs_fixed_1.csv", index=False)
+    df.to_csv("glassdoor_jobs_fixed_4.csv", index=False)
     print("Saved to glassdoor_jobs_fixed.csv")
