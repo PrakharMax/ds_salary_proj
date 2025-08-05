@@ -1,0 +1,606 @@
+title,company,location,salary,rating,hourly,min_sal,max_sal,avg_salary,city,state
+Risk Data Scientist,"Growers Edge Financial, Inc.",Remote,100000 - 120000 ,4.6,0,100000.0,120000.0,110000.0,Remote,Remote
+Associate Data Scientist,i2c inc.,"Redwood City, CA",90000 - 141000 ,3.5,0,90000.0,141000.0,115500.0,Redwood City, CA
+Data Scientist,TransUnion,"White Plains, NY",68000 - 113000 ,3.7,0,68000.0,113000.0,90500.0,White Plains, NY
+"Data Scientist I, II",First Financial Federal Credit Union of Maryland,"Sparks Glencoe, MD",108000 - 160000 ,4.3,0,108000.0,160000.0,134000.0,Sparks Glencoe, MD
+Data Scientist,The Columbia Group,"Washington, DC",101000 - 148000 ,4.0,0,101000.0,148000.0,124500.0,Washington, DC
+DATA SCIENTIST,GenuineXs LLC,Remote,80.00 - 90.00 ,-1.0,1,80.0,90.0,85.0,Remote,Remote
+Data Scientist I,University of Florida,"Gainesville, FL",65000 - 75000 ,4.3,0,65000.0,75000.0,70000.0,Gainesville, FL
+Data Scientist-Toxicity Data Curation,Cognizance Technologies,"College Park, MD",110000 - 135000 ,-1.0,0,110000.0,135000.0,122500.0,College Park, MD
+Data Scientist,United Way,"Alexandria, VA",94000 - 103000 ,3.5,0,94000.0,103000.0,98500.0,Alexandria, VA
+AI/Data Scientist,Arrive AI Inc.,"Fishers, IN",99000 - 151000 ,-1.0,0,99000.0,151000.0,125000.0,Fishers, IN
+Data Scientist,VHB,"Washington, DC",105000 - 128000 ,4.3,0,105000.0,128000.0,116500.0,Washington, DC
+Data Scientist,Ibotta,"Denver, CO",100000 - 115000 ,3.0,0,100000.0,115000.0,107500.0,Denver, CO
+Data Scientist I - Risk & Fraud,Uber,"Sunnyvale, CA",124000 - 131000 ,3.8,0,124000.0,131000.0,127500.0,Sunnyvale, CA
+Data Scientist,Chenega Corporation,"Dayton, OH",78000 - 116000 ,3.8,0,78000.0,116000.0,97000.0,Dayton, OH
+Data Scientist,AG1,Remote,150000 - 180000 ,4.1,0,150000.0,180000.0,165000.0,Remote,Remote
+Data Scientist,HTN Wireless,"Laguna Hills, CA",142000 - 224000 ,4.5,0,142000.0,224000.0,183000.0,Laguna Hills, CA
+Data Scientist Engineer (US),Fetcherr,"Miami, FL",85000 - 135000 ,4.8,0,85000.0,135000.0,110000.0,Miami, FL
+Data Scientist-Hybrid,Logix Federal Credit Union,"Valencia, CA",99000 - 153000 ,3.5,0,99000.0,153000.0,126000.0,Valencia, CA
+Data Scientist,Zillow,United States,123000 - 197000 ,3.5,0,123000.0,197000.0,160000.0,United States,Remote
+Data Scientist,AgSource,"Madison, WI",96000 - 136000 ,2.7,0,96000.0,136000.0,116000.0,Madison, WI
+Data Scientist,Valley National Bank,"Morristown, NJ",83000 - 144000 ,3.2,0,83000.0,144000.0,113500.0,Morristown, NJ
+Senior Data Scientist,Warner Bros. Discovery,"Atlanta, GA",125000 - 163000 ,3.6,0,125000.0,163000.0,144000.0,Atlanta, GA
+Data Scientist Sr,Oshkosh Corporation,"Oshkosh, WI",101000 - 167000 ,3.8,0,101000.0,167000.0,134000.0,Oshkosh, WI
+"ASSOCIATE SCIENTIST, DATA II",AbbVie,"North Chicago, IL",68000 - 93000 ,4.0,0,68000.0,93000.0,80500.0,North Chicago, IL
+Data Scientist,Gustaine,"Orange, CA",71000 - 127000 ,-1.0,0,71000.0,127000.0,99000.0,Orange, CA
+Data Scientist (Forecasting),Agero,Remote,98000 - 155000 ,3.2,0,98000.0,155000.0,126500.0,Remote,Remote
+Data Scientist,Softmat Services,"South Portland, ME",95000 - 158000 ,-1.0,0,95000.0,158000.0,126500.0,South Portland, ME
+Data Scientist 1,paypal,"San Jose, CA",180000 - 260000 ,3.7,0,180000.0,260000.0,220000.0,San Jose, CA
+Data Scientist I,East Bay Municipal Utility District (EBMUD),"Oakland, CA",103000 - 147000 ,3.7,0,103000.0,147000.0,125000.0,Oakland, CA
+Data Scientist,Colsh Consultants,"Richfield, MN",95000 - 140000 ,4.4,0,95000.0,140000.0,117500.0,Richfield, MN
+"Data Scientist II, Analytics",Expedia Group,"Seattle, WA",112000 - 179000 ,3.9,0,112000.0,179000.0,145500.0,Seattle, WA
+Data Scientist,Bluebeam,United States,109000 - 136000 ,3.4,0,109000.0,136000.0,122500.0,United States,Remote
+Data Scientist,"Lutron Electronics Co., Inc","Austin, TX",97000 - 142000 ,3.8,0,97000.0,142000.0,119500.0,Austin, TX
+Senior Data Analyst,City and County of Denver,"Denver, CO",73000 - 120000 ,3.8,0,73000.0,120000.0,96500.0,Denver, CO
+Data Scientist,Amaris Consulting,"Kobe, CO",98000 - 160000 ,3.5,0,98000.0,160000.0,129000.0,Kobe, CO
+Data Scientist,The University of Chicago,"Chicago, IL",70000 - 100000 ,4.1,0,70000.0,100000.0,85000.0,Chicago, IL
+Sr Data Scientist,Bayer,"Creve Coeur, MO",120000 - 180000 ,3.9,0,120000.0,180000.0,150000.0,Creve Coeur, MO
+"Data Scientist, Marketing",OpenAI,"San Francisco, CA",255000 - 405000 ,4.5,0,255000.0,405000.0,330000.0,San Francisco, CA
+Data Scientist,enGen,"Pittsburgh, PA",81000 - 124000 ,2.9,0,81000.0,124000.0,102500.0,Pittsburgh, PA
+Data Scientist - Digital Pathology,MD Anderson,"Houston, TX",103000 - 155000 ,4.1,0,103000.0,155000.0,129000.0,Houston, TX
+Data Scientist - Remote,Optum,"Eden Prairie, MN",90000 - 161000 ,3.5,0,90000.0,161000.0,125500.0,Eden Prairie, MN
+"Senior, Data Scientist",Walmart,"Bentonville, AR",90000 - 180000 ,3.4,0,90000.0,180000.0,135000.0,Bentonville, AR
+Sr Data Scientist,Huntington Bank,"Columbus, OH",100000 - 149000 ,3.6,0,100000.0,149000.0,124500.0,Columbus, OH
+Data Scientist - Financial Analytics,Rippling,"New York, NY",150000 - 180000 ,3.8,0,150000.0,180000.0,165000.0,New York, NY
+Entry Level Data Scientist,Definer Inc,"Minneapolis, MN",63000 - 106000 ,4.6,0,63000.0,106000.0,84500.0,Minneapolis, MN
+Data Scientist,New York Blood Center Inc,"Rye, NY",100000 - 120000 ,2.9,0,100000.0,120000.0,110000.0,Rye, NY
+Data Scientist,Bixal,"Fairfax, VA",95000 - 105000 ,3.8,0,95000.0,105000.0,100000.0,Fairfax, VA
+"Data Scientist, Marketing Analytics",Etsy,"Brooklyn, NY",119000 - 155000 ,4.0,0,119000.0,155000.0,137000.0,Brooklyn, NY
+Sr Data Scientist,Roku,"San Jose, CA",132000 - 254000 ,3.5,0,132000.0,254000.0,193000.0,San Jose, CA
+Data Scientist,Millennium Management,"New York, NY",150000 ,3.5,0,150000.0,150000.0,150000.0,New York, NY
+Senior Data Scientist,Intuit,"San Diego, CA",159000 - 215000 ,4.4,0,159000.0,215000.0,187000.0,San Diego, CA
+Data Scientist,BICP,"San Francisco, CA",127000 - 200000 ,5.0,0,127000.0,200000.0,163500.0,San Francisco, CA
+Data Scientist,DHL,"Westerville, OH",90000 - 125000 ,3.9,0,90000.0,125000.0,107500.0,Westerville, OH
+Data Scientist,Finrise,"Burlingame, CA",124000 - 184000 ,3.8,0,124000.0,184000.0,154000.0,Burlingame, CA
+Data Scientist,Brex,"New York, NY",152000 - 190000 ,4.1,0,152000.0,190000.0,171000.0,New York, NY
+Data Scientist,Magnite,"Los Angeles, CA",110000 - 125000 ,3.9,0,110000.0,125000.0,117500.0,Los Angeles, CA
+Sr Data Scientist,paypal,"San Jose, CA",124000 - 213000 ,3.7,0,124000.0,213000.0,168500.0,San Jose, CA
+"Staff, Data Scientist",Walmart,"Bentonville, AR",110000 - 220000 ,3.4,0,110000.0,220000.0,165000.0,Bentonville, AR
+DATA SCIENTIST II,Frost Bank,"Pflugerville, TX",88000 - 122000 ,4.3,0,88000.0,122000.0,105000.0,Pflugerville, TX
+"Data Scientist/Sr Data Scientist, IOC Analytics",American Airlines,"Dallas, TX",133000 - 171000 ,3.6,0,133000.0,171000.0,152000.0,Dallas, TX
+Data Scientist - Generative AI/ML/Databricks - Remote,Molina Healthcare,"Sioux City, IA",88000 - 207000 ,3.3,0,88000.0,207000.0,147500.0,Sioux City, IA
+Jr Data Scientist,Veracity Software,"Iselin, NJ",78000 - 116000 ,4.1,0,78000.0,116000.0,97000.0,Iselin, NJ
+"Junior Data Scientist, Sports",bet365,"Denver, CO",60000 - 85000 ,3.5,0,60000.0,85000.0,72500.0,Denver, CO
+Data Scientist,Foursquare,"Seattle, WA",120000 - 180000 ,2.8,0,120000.0,180000.0,150000.0,Seattle, WA
+Data Scientist,AG Grace Inc,"Fort Gordon, GA",80000 - 139000 ,4.0,0,80000.0,139000.0,109500.0,Fort Gordon, GA
+Data Scientist,Denver Health,"Denver, CO",74000 - 114000 ,3.5,0,74000.0,114000.0,94000.0,Denver, CO
+Data Scientist - Multimedia,TikTok,"San Jose, CA",144000 - 329000 ,3.2,0,144000.0,329000.0,236500.0,San Jose, CA
+"Data Scientist, Remote","Aperia Technologies, Inc","San Mateo, CA",120000 - 135000 ,3.5,0,120000.0,135000.0,127500.0,San Mateo, CA
+Data Scientist IV,Kaiser Permanente,"Pleasanton, CA",166000 - 215000 ,3.8,0,166000.0,215000.0,190500.0,Pleasanton, CA
+"Data Scientist, Analytics - Safety Response",Discord,"San Francisco, CA",140000 - 158000 ,3.8,0,140000.0,158000.0,149000.0,San Francisco, CA
+Data Scientist,BAE Systems,"Mount Laurel, NJ",78000 - 132000 ,3.7,0,78000.0,132000.0,105000.0,Mount Laurel, NJ
+Junior Data Scientist - AI,Hewlett Packard Enterprise,"San Juan, PR",43000 - 80000 ,4.0,0,43000.0,80000.0,61500.0,San Juan, PR
+Data Scientist,Strider Technologies,"Tysons Corner, VA",87000 - 130000 ,4.7,0,87000.0,130000.0,108500.0,Tysons Corner, VA
+Data Annotation Specialist,Continuum Resource Network,United States,25.00 - 40.00 ,-1.0,1,25.0,40.0,32.5,United States,Remote
+Data Scientist III,Press Ganey,"Chicago, IL",70000 - 95000 ,3.3,0,70000.0,95000.0,82500.0,Chicago, IL
+Data Scientist 2 - Robotics,Pacific Northwest National Laboratory,"Richland, WA",112000 - 178000 ,3.8,0,112000.0,178000.0,145000.0,Richland, WA
+Data Scientist,International Services Management,"Pittsburgh, PA",77000 - 126000 ,-1.0,0,77000.0,126000.0,101500.0,Pittsburgh, PA
+Data Scientist,DLH,"Fort Detrick, MD",100000 - 170000 ,3.5,0,100000.0,170000.0,135000.0,Fort Detrick, MD
+Data Scientist - Cost Transparency,CVS Health,"Springfield, IL",87000 - 173000 ,3.2,0,87000.0,173000.0,130000.0,Springfield, IL
+Data Scientist,Oland Technologies,United States,25.00 - 100.00 ,-1.0,1,25.0,100.0,62.5,United States,Remote
+Data Scientist,Fulcrum Analytics,United States,100000 - 130000 ,-1.0,0,100000.0,130000.0,115000.0,United States,Remote
+Data Scientist,Forman Technology Group,"Plano, TX",87000 - 117000 ,-1.0,0,87000.0,117000.0,102000.0,Plano, TX
+Data Scientist,DigitCompass,"Washington, DC",90000 - 150000 ,-1.0,0,90000.0,150000.0,120000.0,Washington, DC
+Data Scientist (5010),"Three Saints Bay, LLC","Philadelphia, PA",87000 - 156000 ,2.9,0,87000.0,156000.0,121500.0,Philadelphia, PA
+Data Scientist,Skyelia,"Sunnyvale, CA",85.00 - 90.00 ,-1.0,1,85.0,90.0,87.5,Sunnyvale, CA
+Data Scientist,"Government Consulting Solutions, LLC","Dayton, OH",78000 - 127000 ,5.0,0,78000.0,127000.0,102500.0,Dayton, OH
+Data Scientist,OOCL USA Inc,"San Jose, CA",110000 - 132000 ,3.6,0,110000.0,132000.0,121000.0,San Jose, CA
+AI/ML Data Scientist,The Apptech Group,"Woodlawn, MD",89000 - 141000 ,-1.0,0,89000.0,141000.0,115000.0,Woodlawn, MD
+Data Scientist,Pebal Bright Technologies LLC,"Dallas, TX",55.11 - 62.00 ,3.6,1,55.11,62.0,58.555,Dallas, TX
+Data Scientist,Cyber Infotech,"Dallas, TX",81000 - 117000 ,4.2,0,81000.0,117000.0,99000.0,Dallas, TX
+Data Scientist with expertise in DOMO and Python,"The Preferred Prepaid dba XYZies, Inc.","Newport Beach, CA",85000 - 120000 ,-1.0,0,85000.0,120000.0,102500.0,Newport Beach, CA
+Senior Data Scientist - Remote,Optum,"San Diego, CA",90000 - 161000 ,3.5,0,90000.0,161000.0,125500.0,San Diego, CA
+Data Scientist,Northstar Travel Media LLC,"Rutherford, NJ",125000 - 160000 ,4.0,0,125000.0,160000.0,142500.0,Rutherford, NJ
+Data Scientist,Fundwell,"New York, NY",110000 - 160000 ,-1.0,0,110000.0,160000.0,135000.0,New York, NY
+Data Scientist,Dataiku,Remote,145000 - 180000 ,3.5,0,145000.0,180000.0,162500.0,Remote,Remote
+Senior Data Scientist,Flock Safety,United States,175000 - 200000 ,3.9,0,175000.0,200000.0,187500.0,United States,Remote
+Data Scientist,JTEC Consulting,"McLean, VA",160000 - 220000 ,5.0,0,160000.0,220000.0,190000.0,McLean, VA
+Senior Data Scientist,Intuit,"Mountain View, CA",159000 - 215000 ,4.4,0,159000.0,215000.0,187000.0,Mountain View, CA
+Data Scientist,JY Systems LLC,"Fort Meade, MD",170000 - 190000 ,-1.0,0,170000.0,190000.0,180000.0,Fort Meade, MD
+Data Scientist,Parafin,"San Francisco, CA",175000 - 290000 ,4.3,0,175000.0,290000.0,232500.0,San Francisco, CA
+Data Scientist,Verily,"San Bruno, CA",119000 - 169000 ,3.0,0,119000.0,169000.0,144000.0,San Bruno, CA
+Data Scientist,Visa,"Washington, DC",117000 - 181000 ,3.8,0,117000.0,181000.0,149000.0,Washington, DC
+Data Scientist,VivusTech,"Chantilly, VA",81000 - 133000 ,-1.0,0,81000.0,133000.0,107000.0,Chantilly, VA
+Data Scientist,Freedom Technology Solutions Group,"Chantilly, VA",99000 - 143000 ,4.6,0,99000.0,143000.0,121000.0,Chantilly, VA
+Data Scientist II,Vectra AI,"San Jose, CA",140000 - 180000 ,3.8,0,140000.0,180000.0,160000.0,San Jose, CA
+Machine Learning Data Scientist - Logistics Algorithms,Stitch Fix,Remote,154000 - 226000 ,3.2,0,154000.0,226000.0,190000.0,Remote,Remote
+Data Scientist,Federato Technologies,"San Francisco, CA",160000 - 200000 ,4.3,0,160000.0,200000.0,180000.0,San Francisco, CA
+Data Scientist,NutaNXT Technologies,"Santa Clara, CA",108000 - 155000 ,4.8,0,108000.0,155000.0,131500.0,Santa Clara, CA
+Senior Data Scientist,Fulcrum Analytics,United States,120000 - 150000 ,-1.0,0,120000.0,150000.0,135000.0,United States,Remote
+Data Scientist,NT Concepts,"Vienna, VA",108000 - 152000 ,4.0,0,108000.0,152000.0,130000.0,Vienna, VA
+Data Scientist,BayOne,"Sunnyvale, CA",119000 - 167000 ,4.3,0,119000.0,167000.0,143000.0,Sunnyvale, CA
+Data Scientist,AquaSonic Car Wash,"West Palm Beach, FL",65000 - 75000 ,-1.0,0,65000.0,75000.0,70000.0,West Palm Beach, FL
+DATA SCIENTIST,Abbott,"Alameda, CA",87000 - 173000 ,3.8,0,87000.0,173000.0,130000.0,Alameda, CA
+Staff Data Scientist,Intuit,"Los Angeles, CA",179000 - 252000 ,4.4,0,179000.0,252000.0,215500.0,Los Angeles, CA
+"Senior Data Scientist, Risk & Fraud",Etsy,"Brooklyn, NY",140000 - 182000 ,4.0,0,140000.0,182000.0,161000.0,Brooklyn, NY
+Junior Data Scientist,OGC Global,"Washington, DC",88000 - 134000 ,4.7,0,88000.0,134000.0,111000.0,Washington, DC
+Data Scientist,Dropbox,United States,129000 - 196000 ,4.0,0,129000.0,196000.0,162500.0,United States,Remote
+Senior Data Scientist,Abridge Al,"San Francisco, CA",175000 - 225000 ,4.7,0,175000.0,225000.0,200000.0,San Francisco, CA
+Data Scientist,Bunge,"Chesterfield, MO",74000 - 113000 ,3.9,0,74000.0,113000.0,93500.0,Chesterfield, MO
+Data Scientist I,Knowesis,"Pope AFB, NC",87000 - 121000 ,4.6,0,87000.0,121000.0,104000.0,Pope AFB, NC
+DATA SCIENTIST,Reliance Global Services,"South Plainfield, NJ",83000 - 133000 ,4.3,0,83000.0,133000.0,108000.0,South Plainfield, NJ
+Data Scientist II,Freeport-McMoRan,"Phoenix, AZ",123000 - 172000 ,4.1,0,123000.0,172000.0,147500.0,Phoenix, AZ
+Data Scientist,Treasury Wine Estates,"Napa, CA",139000 - 150000 ,3.7,0,139000.0,150000.0,144500.0,Napa, CA
+Data Scientist,General Motors,"Warren, MI",100000 - 139000 ,3.6,0,100000.0,139000.0,119500.0,Warren, MI
+Senior Data Scientist,Ibotta,"Denver, CO",128000 - 145000 ,3.0,0,128000.0,145000.0,136500.0,Denver, CO
+Data Scientist,Caterpillar,"Peoria, IL",87000 - 142000 ,4.0,0,87000.0,142000.0,114500.0,Peoria, IL
+Data Scientist / AI Engineer,Smart Capital Center,Remote,60000 - 114000 ,3.3,0,60000.0,114000.0,87000.0,Remote,Remote
+"Data Scientist, Product",OpenAI,"San Francisco, CA",255000 - 405000 ,4.5,0,255000.0,405000.0,330000.0,San Francisco, CA
+Data Scientist,OpenAI,"San Francisco, CA",255000 - 405000 ,4.5,0,255000.0,405000.0,330000.0,San Francisco, CA
+Research Data Scientist,iSpot,"Bellevue, WA",96000 - 108000 ,3.1,0,96000.0,108000.0,102000.0,Bellevue, WA
+Data Scientist,Embedded Alliance,"Springfield, VA",90000 - 115000 ,4.9,0,90000.0,115000.0,102500.0,Springfield, VA
+Senior Data Analyst,Hecta Data (DBA) Vilwaa,"Santa Clara, CA",50.04 - 65.00 ,4.2,1,50.04,65.0,57.519999999999996,Santa Clara, CA
+Global Programs Data Scientist,Nu Skin,"Provo, UT",77000 - 120000 ,3.4,0,77000.0,120000.0,98500.0,Provo, UT
+Data Scientist (L5) - Customer Service,Netflix,Remote,170000 - 720000 ,4.2,0,170000.0,720000.0,445000.0,Remote,Remote
+Data Scientist,Grainger,"Green Bay, WI",88000 - 122000 ,4.0,0,88000.0,122000.0,105000.0,Green Bay, WI
+Data Scientist II,Katalyst Healthcares & Life Sciences,"Avenel, NJ",101000 - 143000 ,3.5,0,101000.0,143000.0,122000.0,Avenel, NJ
+Data Scientist - MID Job#480,Allen Integrated Solutions,"Washington, DC",110000 - 172000 ,-1.0,0,110000.0,172000.0,141000.0,Washington, DC
+Data Scientist,The JAAW Group,"Salt Lake City, UT",70000 - 100000 ,3.4,0,70000.0,100000.0,85000.0,Salt Lake City, UT
+Data Scientist 1,Venmo,"San Jose, CA",124000 - 213000 ,3.3,0,124000.0,213000.0,168500.0,San Jose, CA
+Data Scientist,"Sandhills Global, Inc.","Lincoln, NE",90000 - 129000 ,3.0,0,90000.0,129000.0,109500.0,Lincoln, NE
+Data Scientist,"Torch Technologies, Inc.",United States,115000 - 135000 ,3.9,0,115000.0,135000.0,125000.0,United States,Remote
+Research Data Scientist,Jack,United States,96000 - 108000 ,-1.0,0,96000.0,108000.0,102000.0,United States,Remote
+Data Scientist,Key Cyber Solutions,"Richmond, VA",86000 - 129000 ,-1.0,0,86000.0,129000.0,107500.0,Richmond, VA
+Data Scientist,Clairvoyant Inc.,"New York, NY",130000 - 140000 ,4.4,0,130000.0,140000.0,135000.0,New York, NY
+Data Scientist,Dell,"Round Rock, TX",135000 - 175000 ,3.8,0,135000.0,175000.0,155000.0,Round Rock, TX
+Sr. Data Scientist,CTI Consulting,"Deerfield Beach, FL",90.00 - 100.00 ,4.2,1,90.0,100.0,95.0,Deerfield Beach, FL
+Data Scientist,Pinterest,"San Francisco, CA",101000 - 209000 ,3.9,0,101000.0,209000.0,155000.0,San Francisco, CA
+Data Scientist,General Atomics and Affiliated Companies,"Charlottesville, VA",69000 - 116000 ,3.9,0,69000.0,116000.0,92500.0,Charlottesville, VA
+Associate Data Scientist,Tredence,"San Jose, CA",117000 ,3.9,0,117000.0,117000.0,117000.0,San Jose, CA
+Data Scientist,Tandem,"New York, NY",150000 - 250000 ,3.7,0,150000.0,250000.0,200000.0,New York, NY
+"Data Scientist, Marketing",Wealthfront,"Palo Alto, CA",164000 - 184000 ,4.2,0,164000.0,184000.0,174000.0,Palo Alto, CA
+Compliance - Technology Operational Risk Management - Data Scientist - Associate,JPMorganChase,"Plano, TX",95000 - 151000 ,4.0,0,95000.0,151000.0,123000.0,Plano, TX
+Experienced Data Scientist,Johnson & Johnson,"Danvers, MA",110000 - 121000 ,4.1,0,110000.0,121000.0,115500.0,Danvers, MA
+"Data Scientist, Ambulatory Transformation & Performance",UCLA Health,"Los Angeles, CA",103000 - 228000 ,3.9,0,103000.0,228000.0,165500.0,Los Angeles, CA
+"Sr. Data Scientist, WW Insurance & Claim",Amazon.com Services LLC,"Nashville, TN",143000 - 248000 ,3.6,0,143000.0,248000.0,195500.0,Nashville, TN
+Senior Data Scientist I,Shipt,Remote,109000 - 247000 ,3.5,0,109000.0,247000.0,178000.0,Remote,Remote
+Staff Data Scientist,PayPal,"San Jose, CA",153000 - 262000 ,3.7,0,153000.0,262000.0,207500.0,San Jose, CA
+Data Scientist,Intone Networks,"Malvern, PA",50.00 ,4.1,1,50.0,50.0,50.0,Malvern, PA
+"Jr. Data Scientist - Austin, Jr. Developer Program",Amazon.com Services LLC,"Austin, TX",16.83 - 75.63 ,3.6,1,16.83,75.63,46.23,Austin, TX
+Data Scientist,"iHeartMedia, Inc.",New York State,85000 - 106000 ,3.2,0,85000.0,106000.0,95500.0,New York State,Remote
+Data Scientist All Levels (ll-lll),FedEx,"Memphis, TN",82000 - 168000 ,3.4,0,82000.0,168000.0,125000.0,Memphis, TN
+Sr Data Scientist,Johnson & Johnson,"New Brunswick, NJ",106000 - 144000 ,4.1,0,106000.0,144000.0,125000.0,New Brunswick, NJ
+Research Associate Data Scientist,Cedars-Sinai,"Los Angeles, CA",78000 - 133000 ,3.9,0,78000.0,133000.0,105500.0,Los Angeles, CA
+Data Scientist/Analyst,LS Direct Marketing,"Suffern, NY",112000 - 125000 ,3.5,0,112000.0,125000.0,118500.0,Suffern, NY
+Data Scientist,Shipt,"Minneapolis, MN",74000 - 167000 ,3.5,0,74000.0,167000.0,120500.0,Minneapolis, MN
+Data Analytics Scientist,"CF Industries Holdings, Inc.","Northbrook, IL",73000 - 96000 ,3.5,0,73000.0,96000.0,84500.0,Northbrook, IL
+Data Scientist,Street Simplified,United States,80000 - 100000 ,-1.0,0,80000.0,100000.0,90000.0,United States,Remote
+Data Scientist,Advan Research Corporation,"New York, NY",150000 - 200000 ,3.0,0,150000.0,200000.0,175000.0,New York, NY
+Data Scientist – Fiber Team,"T-Mobile USA, Inc.","Denver, CO",86000 - 156000 ,3.7,0,86000.0,156000.0,121000.0,Denver, CO
+Data Scientist / Curator (contract),Pfizer,"Cambridge, MA",35.00 - 40.00 ,3.8,1,35.0,40.0,37.5,Cambridge, MA
+Data Scientist,Croud,"New York, NY",120000 - 140000 ,3.7,0,120000.0,140000.0,130000.0,New York, NY
+Health Data Scientist,Accenture Federal Services,"Washington, DC",99000 - 185000 ,4.1,0,99000.0,185000.0,142000.0,Washington, DC
+Data Scientist,Warner Music Group,"New York, NY",150000 - 160000 ,3.6,0,150000.0,160000.0,155000.0,New York, NY
+DATA SCIENTIST / EMERGENCY APPOINTMENT HOMELESSNESS,County of Los Angeles,"Los Angeles, CA",9000 - 13000 ,3.1,0,9000.0,13000.0,11000.0,Los Angeles, CA
+Data Scientist,Southwest Airlines,"Dallas, TX",128000 - 143000 ,3.9,0,128000.0,143000.0,135500.0,Dallas, TX
+Healthcare Data Scientist I,AFMC,"Little Rock, AR",75000 - 108000 ,3.9,0,75000.0,108000.0,91500.0,Little Rock, AR
+Data Scientist,Spectrum,"Stamford, CT",86000 - 152000 ,3.3,0,86000.0,152000.0,119000.0,Stamford, CT
+Data Scientist,"Affinaquest Technologies, LLC","Scottsdale, AZ",150000 - 160000 ,2.0,0,150000.0,160000.0,155000.0,Scottsdale, AZ
+Data Scientist,The Energy Authority Inc,"Bellevue, WA",94000 - 146000 ,3.3,0,94000.0,146000.0,120000.0,Bellevue, WA
+Data Scientist,PUTNAM RECRUITING GROUP,Remote,140000 - 180000 ,4.3,0,140000.0,180000.0,160000.0,Remote,Remote
+Data Scientist,RWJBarnabas Health Corporate Services,"Oceanport, NJ",135000 - 200000 ,3.6,0,135000.0,200000.0,167500.0,Oceanport, NJ
+Data Scientist,Guttman Energy,"Belle Vernon, PA",66000 - 109000 ,3.1,0,66000.0,109000.0,87500.0,Belle Vernon, PA
+Data Scientist - All Levels,"Interclypse, Inc.","Reston, VA",88000 - 136000 ,4.4,0,88000.0,136000.0,112000.0,Reston, VA
+"Senior Data Scientist, Client Analysis",Socure,"Carson City, NV",160000 - 175000 ,3.0,0,160000.0,175000.0,167500.0,Carson City, NV
+Senior Risk Data Scientist,Intuit,"Mountain View, CA",159000 - 215000 ,4.4,0,159000.0,215000.0,187000.0,Mountain View, CA
+Data Scientist,Noblesoft Solutions,"Jacksonville, FL",90000 - 139000 ,4.8,0,90000.0,139000.0,114500.0,Jacksonville, FL
+"Staff, Data Scientist",Walmart,"Hoboken, NJ",132000 - 264000 ,3.4,0,132000.0,264000.0,198000.0,Hoboken, NJ
+Sr. Data Scientist - Analytics,"Twitch Interactive, Inc.","San Francisco, CA",143000 - 248000 ,3.6,0,143000.0,248000.0,195500.0,San Francisco, CA
+"Senior Data Scientist, Analytics",Etsy,"Brooklyn, NY",136000 - 176000 ,4.0,0,136000.0,176000.0,156000.0,Brooklyn, NY
+Data Scientist - Bellevue,RESULTICKS,"Bellevue, WA",111000 - 155000 ,4.2,0,111000.0,155000.0,133000.0,Bellevue, WA
+Data Scientist,FanDuel,"Jersey City, NJ",116000 - 152000 ,4.0,0,116000.0,152000.0,134000.0,Jersey City, NJ
+Machine Learning Scientist,Expedia Group,"Seattle, WA",138000 - 220000 ,3.9,0,138000.0,220000.0,179000.0,Seattle, WA
+Sr. Data Scientist,Gap Inc.,"Pleasanton, CA",174000 - 231000 ,3.7,0,174000.0,231000.0,202500.0,Pleasanton, CA
+Data Scientist,Meta,"Menlo Park, CA",145000 - 204000 ,3.8,0,145000.0,204000.0,174500.0,Menlo Park, CA
+"Data Scientist, Forecasting and Labs - CIV Team",Amazon.com Services LLC,"Bellevue, WA",126000 - 213000 ,3.6,0,126000.0,213000.0,169500.0,Bellevue, WA
+Data Scientist,Advent Services,"Dayton, OH",69000 - 113000 ,3.5,0,69000.0,113000.0,91000.0,Dayton, OH
+Data Scientist,Toyota,"Plano, TX",102000 - 132000 ,4.1,0,102000.0,132000.0,117000.0,Plano, TX
+"Data Scientist, PSS Supply Chain Digital Partner",Cardinal Health,United States,94000 - 134000 ,3.7,0,94000.0,134000.0,114000.0,United States,Remote
+Data Scientist,Prosper,Remote,126000 - 167000 ,2.3,0,126000.0,167000.0,146500.0,Remote,Remote
+Data Scientist,Sajix Software Solution Private Limited,"Pleasanton, CA",110000 - 159000 ,3.3,0,110000.0,159000.0,134500.0,Pleasanton, CA
+Data Scientist,Booz Allen,"Herndon, VA",78000 - 176000 ,4.1,0,78000.0,176000.0,127000.0,Herndon, VA
+Economic Data Analyst/Data Scientist,NW Natural,"Portland, OR",80000 - 137000 ,3.4,0,80000.0,137000.0,108500.0,Portland, OR
+Senior Data Scientist,Indeed,Remote,139000 - 213000 ,4.0,0,139000.0,213000.0,176000.0,Remote,Remote
+Data Reviewer/Scientist I,KBI Biopharma,"Durham, NC",43000 - 63000 ,3.1,0,43000.0,63000.0,53000.0,Durham, NC
+Staff Data Scientist,SoFi,United States,154000 - 264000 ,3.7,0,154000.0,264000.0,209000.0,United States,Remote
+Senior Data Scientist New,Uniswap Labs,"New York, NY",195000 - 217000 ,3.4,0,195000.0,217000.0,206000.0,New York, NY
+Data Scientist,Ascension,"Austin, TX",93000 - 125000 ,3.5,0,93000.0,125000.0,109000.0,Austin, TX
+Senior Data Scientist,Chenega Corporation,"Dayton, OH",77000 - 108000 ,3.8,0,77000.0,108000.0,92500.0,Dayton, OH
+Data Scientist (Closes 8/21/2025),Allegheny County Department of Human Services,"Pittsburgh, PA",110000 - 120000 ,3.0,0,110000.0,120000.0,115000.0,Pittsburgh, PA
+Data Scientist II,UKG,"Lowell, MA",89000 - 123000 ,3.4,0,89000.0,123000.0,106000.0,Lowell, MA
+Data Scientist (L5) - Ads (Forecasting),Netflix,Remote,170000 - 720000 ,4.2,0,170000.0,720000.0,445000.0,Remote,Remote
+Data Scientist,Chirality Research,"Houston, TX",63000 - 112000 ,4.6,0,63000.0,112000.0,87500.0,Houston, TX
+Graduate Data Scientist,Caesars Entertainment,"Las Vegas, NV",65000 - 98000 ,3.3,0,65000.0,98000.0,81500.0,Las Vegas, NV
+Data Scientist,"TMS, LLC","Atlanta, GA",71.00 - 75.00 ,-1.0,1,71.0,75.0,73.0,Atlanta, GA
+"Data Analytics Scientist– Pharma (Hybrid – Devens, MA, Summit, NJ OR Seattle, WA)",Stage 4 Solutions Inc,"Summit, NJ",75.00 - 79.86 ,4.6,1,75.0,79.86,77.43,Summit, NJ
+Data Scientist II,SNC,"Lone Tree, CO",94000 - 130000 ,4.1,0,94000.0,130000.0,112000.0,Lone Tree, CO
+Data Scientist - Supply Chain Optimization,"US Foods, Inc.","Rosemont, IL",84000 - 118000 ,3.3,0,84000.0,118000.0,101000.0,Rosemont, IL
+Data Scientist,Disney,"Burbank, CA",115000 - 154000 ,3.9,0,115000.0,154000.0,134500.0,Burbank, CA
+Data Scientist / AI Engineer,Innovative Defense Technologies (IDT),"Arlington, VA",90000 - 184000 ,4.3,0,90000.0,184000.0,137000.0,Arlington, VA
+Customer Data Scientist,Statsig,"Bellevue, WA",130000 - 145000 ,4.8,0,130000.0,145000.0,137500.0,Bellevue, WA
+Senior AI/Data Scientist,Arrive AI Inc.,"Fishers, IN",95000 - 167000 ,-1.0,0,95000.0,167000.0,131000.0,Fishers, IN
+"Data Scientist, Demand Forecasting & Analysis",New York ISO,"Rensselaer, NY",69000 - 115000 ,4.2,0,69000.0,115000.0,92000.0,Rensselaer, NY
+Data Scientist 2,Gormat,"Aurora, CO",100000 - 115000 ,-1.0,0,100000.0,115000.0,107500.0,Aurora, CO
+Data Scientist (hybrid),Federated Hermes,"Pittsburgh, PA",114000 - 170000 ,3.5,0,114000.0,170000.0,142000.0,Pittsburgh, PA
+"Data Scientist, Forecasting",Tapestry,"New York, NY",130000 - 145000 ,3.9,0,130000.0,145000.0,137500.0,New York, NY
+Data Science Graduate (Advertisement Team) - 2026 Start (BS/MS),TikTok,"San Jose, CA",114000 - 178000 ,3.2,0,114000.0,178000.0,146000.0,San Jose, CA
+Data Scientist,CoStar Group,"Los Angeles, CA",100000 - 106000 ,2.6,0,100000.0,106000.0,103000.0,Los Angeles, CA
+Data Scientist III (Remote Work Option),NIKE,Oregon,108000 - 213000 ,4.0,0,108000.0,213000.0,160500.0,Oregon,Remote
+Data Scientist,Align Technology,"San Jose, CA",129000 - 177000 ,3.5,0,129000.0,177000.0,153000.0,San Jose, CA
+"Senior, Data Scientist",Sam's Club,"San Bruno, CA",117000 - 234000 ,3.3,0,117000.0,234000.0,175500.0,San Bruno, CA
+Elections Data Scientist (Newsperson),The Associated Press,"Washington, DC",53000 - 85000 ,3.8,0,53000.0,85000.0,69000.0,Washington, DC
+Data Scientist,DevCare,"Atlanta, GA",76.00 - 80.00 ,3.8,1,76.0,80.0,78.0,Atlanta, GA
+Data Scientist – R01551285,Brillio,"Chicago, IL",140000 - 150000 ,3.9,0,140000.0,150000.0,145000.0,Chicago, IL
+Data Scientist,Spalding,"Lexington Park, MD",80000 - 140000 ,4.3,0,80000.0,140000.0,110000.0,Lexington Park, MD
+Sr. Data Scientist,omega solutions inc,"Santa Ana, CA",81000 - 126000 ,3.1,0,81000.0,126000.0,103500.0,Santa Ana, CA
+Data Scientist | 2026 Start,American Credit Acceptance,"Spartanburg, SC",95000 - 161000 ,3.2,0,95000.0,161000.0,128000.0,Spartanburg, SC
+Research Data Scientist,Penn State University,"University Park, PA",62000 - 90000 ,4.2,0,62000.0,90000.0,76000.0,University Park, PA
+"Data Scientist II, Customer Technology",Wayfair,"Boston, MA",121000 - 132000 ,2.9,0,121000.0,132000.0,126500.0,Boston, MA
+Data Scientist- Maps,Apple,"Cupertino, CA",142000 - 259000 ,4.1,0,142000.0,259000.0,200500.0,Cupertino, CA
+Data Scientist Analyst,H&R Block,"Kansas City, MO",79000 - 122000 ,3.8,0,79000.0,122000.0,100500.0,Kansas City, MO
+Data Scientist I,Inventory Locator Service,"Cordova, TN",75000 - 105000 ,4.1,0,75000.0,105000.0,90000.0,Cordova, TN
+Data Scientist -- Trucking Safety,Spotter,"Lemont, IL",84000 - 134000 ,3.5,0,84000.0,134000.0,109000.0,Lemont, IL
+Data Scientist,L.E.K. Consulting,"Boston, NY",85000 - 120000 ,3.7,0,85000.0,120000.0,102500.0,Boston, NY
+"Data Scientist, Sports",bet365,"Denver, CO",85000 - 110000 ,3.5,0,85000.0,110000.0,97500.0,Denver, CO
+Associate Data Scientist,Quantifind,"Palo Alto, CA",100000 - 130000 ,4.2,0,100000.0,130000.0,115000.0,Palo Alto, CA
+Healthcare Data Scientist,HDR,"Philadelphia, PA",106000 - 148000 ,4.1,0,106000.0,148000.0,127000.0,Philadelphia, PA
+Data Scientist,Autonomous Solutions,"Mendon, UT",75000 - 119000 ,4.0,0,75000.0,119000.0,97000.0,Mendon, UT
+Data Scientist- Laundry Appliances,Midea America Corp.,"Louisville, KY",44000 - 82000 ,3.5,0,44000.0,82000.0,63000.0,Louisville, KY
+Data Scientist,Leidos,"Reston, VA",105000 - 189000 ,3.8,0,105000.0,189000.0,147000.0,Reston, VA
+Senior Data Scientist,Advent Services,"Dayton, OH",92000 - 142000 ,3.5,0,92000.0,142000.0,117000.0,Dayton, OH
+Data Scientist - Financial Analytics,Rippling,"San Francisco, CA",150000 - 180000 ,3.8,0,150000.0,180000.0,165000.0,San Francisco, CA
+Junior Data Scientist,"CGI Group, Inc.","Arlington, VA",51000 - 119000 ,3.7,0,51000.0,119000.0,85000.0,Arlington, VA
+Data Scientist/ Engineer,Nyla Technology Solutions,"Annapolis Junction, MD",108000 - 152000 ,4.7,0,108000.0,152000.0,130000.0,Annapolis Junction, MD
+Data Scientist,University of Utah Health,"Salt Lake City, UT",81000 - 118000 ,4.2,0,81000.0,118000.0,99500.0,Salt Lake City, UT
+Data Scientist (Electric Vehicle),Veear Projects Inc.,Remote,75.00 - 80.00 ,3.9,1,75.0,80.0,77.5,Remote,Remote
+Lead People Data Scientist,Lululemon,Remote,136000 - 179000 ,4.1,0,136000.0,179000.0,157500.0,Remote,Remote
+Data Scientist (R5-R7),Eli Lilly,"Indianapolis, IN",210000 ,4.0,0,210000.0,210000.0,210000.0,Indianapolis, IN
+Junior AI Software Engineer (Remote),Bluegeko,Remote,70000 - 80000 ,-1.0,0,70000.0,80000.0,75000.0,Remote,Remote
+Data Senior Scientist,City National Bank,"Rock Hill, SC",101000 - 172000 ,3.1,0,101000.0,172000.0,136500.0,Rock Hill, SC
+Data Scientist,Goosehead Insurance Agency,"Westlake, OH",101000 - 139000 ,3.7,0,101000.0,139000.0,120000.0,Westlake, OH
+Machine Learning Scientist (L4/5) - Promotional Assets & Creative Technology,Netflix,Remote,150000 - 750000 ,4.2,0,150000.0,750000.0,450000.0,Remote,Remote
+Senior Data Scientist,Creative Artists Agency (CAA),"Los Angeles, CA",194000 - 215000 ,3.8,0,194000.0,215000.0,204500.0,Los Angeles, CA
+Data Scientist,Apple,"Cupertino, CA",212000 - 259000 ,4.1,0,212000.0,259000.0,235500.0,Cupertino, CA
+Senior Data Scientist,"ServiceTitan, Inc.",California,137000 - 183000 ,3.5,0,137000.0,183000.0,160000.0,California,Remote
+Data Scientist - Merchandising and Pricing,Macy’s,"Johns Creek, GA",79000 - 131000 ,3.4,0,79000.0,131000.0,105000.0,Johns Creek, GA
+Data Scientist,EQUINOX,"New York, NY",120000 - 140000 ,3.4,0,120000.0,140000.0,130000.0,New York, NY
+Senior Data Scientist,Grindr,"Palo Alto, CA",137000 - 181000 ,3.1,0,137000.0,181000.0,159000.0,Palo Alto, CA
+Staff Data Scientist - Product,Robinhood,"Menlo Park, CA",158000 - 238000 ,3.6,0,158000.0,238000.0,198000.0,Menlo Park, CA
+Data Scientist Senior,Elevance Health,"Indianapolis, IN",89000 - 134000 ,3.4,0,89000.0,134000.0,111500.0,Indianapolis, IN
+Data Scientist,Stantec,"Atlanta, GA",93000 - 136000 ,3.8,0,93000.0,136000.0,114500.0,Atlanta, GA
+Sr. Data Scientist,Motorola Solutions,"Richardson, TX",90000 - 144000 ,4.3,0,90000.0,144000.0,117000.0,Richardson, TX
+Data Scientist II - AMZ24246.1,"Twitch Interactive, Inc. - D48","Seattle, WA",126000 - 213000 ,3.6,0,126000.0,213000.0,169500.0,Seattle, WA
+Graph Data Scientist,Qode,"Pittsburgh, PA",107000 - 165000 ,4.2,0,107000.0,165000.0,136000.0,Pittsburgh, PA
+"Full-Stack SWE, Data Acquisition (Foundations)",OpenAI,"San Francisco, CA",325000 - 405000 ,4.5,0,325000.0,405000.0,365000.0,San Francisco, CA
+Data Scientist,ShyftLabs,"Atlanta, GA",83000 - 125000 ,3.8,0,83000.0,125000.0,104000.0,Atlanta, GA
+"Data Scientist, Operations Research",Cardinal Health,United States,94000 - 134000 ,3.7,0,94000.0,134000.0,114000.0,United States,Remote
+Data Scientist III,Chewy,"Boston, MA",128000 - 163000 ,3.5,0,128000.0,163000.0,145500.0,Boston, MA
+Associate Data Scientist (5682),MetroStar,"Quantico, VA",67000 - 107000 ,3.9,0,67000.0,107000.0,87000.0,Quantico, VA
+Data Scientist 1,University of New Mexico,"Albuquerque, NM",5000 - 7000 ,3.8,0,5000.0,7000.0,6000.0,Albuquerque, NM
+Data Scientist,Sleeper,Remote,75000 - 175000 ,5.0,0,75000.0,175000.0,125000.0,Remote,Remote
+Data Scientist I,University of Rochester,"Rochester, NY",60000 - 85000 ,3.6,0,60000.0,85000.0,72500.0,Rochester, NY
+Data Scientist,Liberty Mutual,"Plano, TX",82000 - 197000 ,3.6,0,82000.0,197000.0,139500.0,Plano, TX
+Machine Learning Scientist,Niantic,"Seattle, WA",158000 - 185000 ,3.9,0,158000.0,185000.0,171500.0,Seattle, WA
+Data Scientist,Waste Connections,"The Woodlands, TX",80000 - 117000 ,3.8,0,80000.0,117000.0,98500.0,The Woodlands, TX
+Data Scientist,Halvik,"Washington, DC",160000 - 200000 ,3.5,0,160000.0,200000.0,180000.0,Washington, DC
+Data Scientist - AIGC Application,TikTok,"San Jose, CA",144000 - 329000 ,3.2,0,144000.0,329000.0,236500.0,San Jose, CA
+"Machine Learning Scientist, MLDD (Large Molecule Drug Discovery)",Genentech,"San Francisco, CA",148000 - 274000 ,4.0,0,148000.0,274000.0,211000.0,San Francisco, CA
+Data Scientist,Fairway Independent Mortgage Corporation,Texas,140000 - 141000 ,4.1,0,140000.0,141000.0,140500.0,Texas,Remote
+"Data Scientist, Sr",Realtor.com Careers,"Austin, TX",83000 - 138000 ,3.3,0,83000.0,138000.0,110500.0,Austin, TX
+Data Scientist,University of Rochester,"Rochester, NY",70000 - 105000 ,3.6,0,70000.0,105000.0,87500.0,Rochester, NY
+Data Scientist,Elevance Health,"Atlanta, GA",90000 - 128000 ,3.4,0,90000.0,128000.0,109000.0,Atlanta, GA
+"Data Scientist, Stanford Law School",Stanford University,"Stanford, CA",82000 - 106000 ,4.3,0,82000.0,106000.0,94000.0,Stanford, CA
+Data Scientist,Leidos,Ford Island,105000 - 189000 ,3.8,0,105000.0,189000.0,147000.0,Ford Island,Remote
+Data Scientist,MessageControl,"Chicago, IL",84000 - 129000 ,-1.0,0,84000.0,129000.0,106500.0,Chicago, IL
+"Senior Data Scientist, Consumer",Reddit,Remote,191000 - 267000 ,3.9,0,191000.0,267000.0,229000.0,Remote,Remote
+"AVP, AI Data Scientist",Greater New York Mutual Insurance Company,Manhattan,128000 - 250000 ,4.0,0,128000.0,250000.0,189000.0,Manhattan,Remote
+Data Scientist,Weee! Inc,"Fremont, CA",100000 - 130000 ,2.8,0,100000.0,130000.0,115000.0,Fremont, CA
+Data Scientist,NYC HOUSING AUTHORITY,Manhattan,75000 - 104000 ,3.1,0,75000.0,104000.0,89500.0,Manhattan,Remote
+Sr. Data Scientist – Fiber,"T-Mobile USA, Inc.","Frisco, TX",106000 - 191000 ,3.7,0,106000.0,191000.0,148500.0,Frisco, TX
+Data Scientist,"Vizient, Inc.","Chicago, IL",77000 - 135000 ,3.4,0,77000.0,135000.0,106000.0,Chicago, IL
+Data Scientist III,The University of Alabama,"Tuscaloosa, AL",74000 - 100000 ,4.1,0,74000.0,100000.0,87000.0,Tuscaloosa, AL
+Data Scientist,Adobe,"San Jose, CA",109000 - 192000 ,4.2,0,109000.0,192000.0,150500.0,San Jose, CA
+"Data Scientist - Powell, OH",Ocean Blue Solutions,"Columbus, OH",81000 - 126000 ,5.0,0,81000.0,126000.0,103500.0,Columbus, OH
+Data Scientist - TikTok Music,TikTok,"San Jose, CA",144000 - 329000 ,3.2,0,144000.0,329000.0,236500.0,San Jose, CA
+Data Scientist,Base-2 Solutions,"Aurora, CO",99000 - 131000 ,2.6,0,99000.0,131000.0,115000.0,Aurora, CO
+Sr. IT Data Scientist,Qualcomm,"San Diego, CA",56.23 - 84.35 ,3.9,1,56.23,84.35,70.28999999999999,San Diego, CA
+Data Scientist,Wipro Limited,"New York, NY",70000 - 80000 ,3.6,0,70000.0,80000.0,75000.0,New York, NY
+Data Scientist,Nexstar Broadcasting,"New York, NY",125000 - 130000 ,2.8,0,125000.0,130000.0,127500.0,New York, NY
+Associate Data Scientist / Data Scientist I,Epicrispr Biotechnologies,"South San Francisco, CA",90000 - 120000 ,4.4,0,90000.0,120000.0,105000.0,South San Francisco, CA
+Senior Data Scientist (Remote),Latica,"Palo Alto, CA",136000 - 222000 ,2.8,0,136000.0,222000.0,179000.0,Palo Alto, CA
+Data Scientist QxBranch,QxBranch,"Washington, DC",79000 - 142000 ,5.0,0,79000.0,142000.0,110500.0,Washington, DC
+DATA SCIENTIST ASSISTANT,"University of Alabama, Birmingham","Birmingham, AL",70000 - 114000 ,3.9,0,70000.0,114000.0,92000.0,Birmingham, AL
+Data Scientist - Model Optimization,"quadric.io, Inc","Burlingame, CA",106000 - 168000 ,3.6,0,106000.0,168000.0,137000.0,Burlingame, CA
+Data Scientist,"Ryan Companies US, Inc.","Atlanta, GA",74000 - 111000 ,4.2,0,74000.0,111000.0,92500.0,Atlanta, GA
+Sr. Data Scientist,Evans Inc.,United States,120000 - 160000 ,4.5,0,120000.0,160000.0,140000.0,United States,Remote
+Associate Data Scientist,Health Intelligence company LLC,United States,100000 - 165000 ,3.2,0,100000.0,165000.0,132500.0,United States,Remote
+Data Scientist (P3438),84.51°,"Cincinnati, OH",91000 - 219000 ,2.9,0,91000.0,219000.0,155000.0,Cincinnati, OH
+"Senior Data Scientist, Payments",GoodLeap,"San Francisco, CA",146000 - 170000 ,3.6,0,146000.0,170000.0,158000.0,San Francisco, CA
+Data Scientist II,Black Eagle Defense,"Fort Meade, MD",143000 - 200000 ,-1.0,0,143000.0,200000.0,171500.0,Fort Meade, MD
+Data Scientist,SYNCRONYS,"Albuquerque, NM",95000 - 125000 ,5.0,0,95000.0,125000.0,110000.0,Albuquerque, NM
+Data Scientist,Prometheus Federal Services,"Fairfax, VA",91000 - 137000 ,3.2,0,91000.0,137000.0,114000.0,Fairfax, VA
+Senior Data Scientist - Retail,CVS Health,"Trenton, NJ",83000 - 222000 ,3.2,0,83000.0,222000.0,152500.0,Trenton, NJ
+Sr. Data Scientist,"Morrison & Foerster, LLP","San Francisco, CA",125000 - 195000 ,4.0,0,125000.0,195000.0,160000.0,San Francisco, CA
+Lead Data Scientist (Remote),CareFirst BlueCross BlueShield,"Reston, VA",113000 - 225000 ,3.8,0,113000.0,225000.0,169000.0,Reston, VA
+Sr. Data Scientist,Paycom Payroll Llc,"Oklahoma City, OK",99000 - 133000 ,3.3,0,99000.0,133000.0,116000.0,Oklahoma City, OK
+"AI Data Scientist, Evaluation & Insights","Ironclad, Inc.","San Francisco, CA",180000 - 200000 ,4.4,0,180000.0,200000.0,190000.0,San Francisco, CA
+Senior Data Scientist,Plum Inc,"San Francisco, CA",150000 - 200000 ,4.0,0,150000.0,200000.0,175000.0,San Francisco, CA
+Staff Data Scientist,GoFundMe,"San Francisco, CA",167000 - 250000 ,4.5,0,167000.0,250000.0,208500.0,San Francisco, CA
+Senior Data Scientist (25.27),Siertek Ltd,"Beavercreek, OH",99000 - 144000 ,3.9,0,99000.0,144000.0,121500.0,Beavercreek, OH
+Revenue FP&A - Data Scientist,Dropbox,United States,150000 - 228000 ,4.0,0,150000.0,228000.0,189000.0,United States,Remote
+Data Scientist - AI,Hewlett Packard Enterprise,"Aguadilla, PR",69000 - 120000 ,4.0,0,69000.0,120000.0,94500.0,Aguadilla, PR
+"Data Scientist II, Instrumentation & Experimentation",Teladoc Health,Remote,100000 - 120000 ,3.1,0,100000.0,120000.0,110000.0,Remote,Remote
+"Data Scientist II, Supply Chain Retail Technology",Wayfair,"Boston, MA",121000 - 132000 ,2.9,0,121000.0,132000.0,126500.0,Boston, MA
+"Data Scientist II, BRS",Big River Steel LLC,"Osceola, AR",66000 - 110000 ,3.5,0,66000.0,110000.0,88000.0,Osceola, AR
+Data Scientist - TrainingPeaks,Peaksware,"Louisville, CO",95000 - 158000 ,3.9,0,95000.0,158000.0,126500.0,Louisville, CO
+Machine Learning Engineer,Freelancing,"Phoenix, AZ",50.00 - 60.00 ,-1.0,1,50.0,60.0,55.0,Phoenix, AZ
+Research Data Scientist,Stanford University,"Stanford, CA",142000 - 200000 ,4.3,0,142000.0,200000.0,171000.0,Stanford, CA
+Data Scientist (Insurance),Nearmap,"Carlsbad, CA",82000 - 146000 ,3.5,0,82000.0,146000.0,114000.0,Carlsbad, CA
+Data Scientist,NexZenTek,"Atlanta, GA",96000 - 157000 ,4.1,0,96000.0,157000.0,126500.0,Atlanta, GA
+Senior Staff Data Scientist,Intuit,"Mountain View, CA",205000 - 277000 ,4.4,0,205000.0,277000.0,241000.0,Mountain View, CA
+Senior Graph Data Scientist,Amida Technology Solutions,"Washington, DC",170000 - 190000 ,2.8,0,170000.0,190000.0,180000.0,Washington, DC
+Data Scientist - LLM,Lowe's,"Charlotte, NC",75000 - 143000 ,3.5,0,75000.0,143000.0,109000.0,Charlotte, NC
+Senior Data Scientist,Piper Companies,Remote,130000 - 150000 ,3.9,0,130000.0,150000.0,140000.0,Remote,Remote
+Principal Data Scientist (contract),Sanofi,Remote,110.00 - 144.00 ,4.0,1,110.0,144.0,127.0,Remote,Remote
+Senior Product Data Scientist,Waymo,"Mountain View, CA",196000 - 248000 ,4.0,0,196000.0,248000.0,222000.0,Mountain View, CA
+Data Scientist,JANUS Research Group,"Fort Belvoir, VA",82000 - 123000 ,3.8,0,82000.0,123000.0,102500.0,Fort Belvoir, VA
+Data Scientist,Axon Enterprise,"Boston, MA",124000 - 198000 ,4.1,0,124000.0,198000.0,161000.0,Boston, MA
+Data Scientist with tidyR exp,Kaygen,"Peapack, NJ",55.00 - 60.00 ,4.4,1,55.0,60.0,57.5,Peapack, NJ
+Data Scientist Analyst,REVOLVE,"Cerritos, CA",100000 - 120000 ,3.4,0,100000.0,120000.0,110000.0,Cerritos, CA
+Data Scientist,Arete Associates,"Northridge, CA",90000 - 150000 ,4.3,0,90000.0,150000.0,120000.0,Northridge, CA
+Research Data Scientist,The University of Chicago,"Chicago, IL",70000 - 90000 ,4.1,0,70000.0,90000.0,80000.0,Chicago, IL
+Data Scientist II,Endepth Solutions,"Annapolis Junction, MD",130000 - 170000 ,3.7,0,130000.0,170000.0,150000.0,Annapolis Junction, MD
+"Data Scientist, SMTS",Salesforce,"San Francisco, CA",158000 - 237000 ,4.1,0,158000.0,237000.0,197500.0,San Francisco, CA
+Data Scientist,Vivo,"San Mateo, CA",80.00 - 90.00 ,3.4,1,80.0,90.0,85.0,San Mateo, CA
+"Marketing Data Scientist, Affiliate Channels",SoFi,"San Francisco, CA",106000 - 198000 ,3.7,0,106000.0,198000.0,152000.0,San Francisco, CA
+Data Scientist,Govcio LLC,"San Antonio, TX",135000 - 150000 ,3.3,0,135000.0,150000.0,142500.0,San Antonio, TX
+Data Scientist I,Dynamic Solutions Technology LLC,"San Diego, CA",90000 - 117000 ,5.0,0,90000.0,117000.0,103500.0,San Diego, CA
+Growth Data Scientist,Adobe,"San Jose, CA",109000 - 192000 ,4.2,0,109000.0,192000.0,150500.0,San Jose, CA
+"AIML - Data Scientist, Evaluation",Apple,"Seattle, WA",140000 - 258000 ,4.1,0,140000.0,258000.0,199000.0,Seattle, WA
+"Staff Data Scientist, Ads",Reddit,Remote,217000 - 304000 ,3.9,0,217000.0,304000.0,260500.0,Remote,Remote
+Staff Data Scientist,Blue Yonder,"Dallas, TX",140000 - 166000 ,3.8,0,140000.0,166000.0,153000.0,Dallas, TX
+Data Scientist,GliaCell Technologies,United States,50000 - 120000 ,4.8,0,50000.0,120000.0,85000.0,United States,Remote
+Senior Data Scientist (Remote),Pratt & Whitney,Connecticut,101000 - 203000 ,3.7,0,101000.0,203000.0,152000.0,Connecticut,Remote
+Data Scientist,"OxeFit, Inc.","Plano, TX",93000 - 128000 ,2.4,0,93000.0,128000.0,110500.0,Plano, TX
+"Data Scientist, Research, YouTube Ads",YouTube,"Mountain View, CA",141000 - 202000 ,4.4,0,141000.0,202000.0,171500.0,Mountain View, CA
+Data Scientist – AI/ML Recommendations & Personalization,Microsoft,"Redmond, WA",101000 - 215000 ,4.1,0,101000.0,215000.0,158000.0,Redmond, WA
+Energy Demand Modeling and Forecasting Data Scientist,Southern California Edison,"Rosemead, CA",112000 - 167000 ,3.9,0,112000.0,167000.0,139500.0,Rosemead, CA
+Data Scientist,Thomson Reuters,"McLean, VA",102000 - 189000 ,4.1,0,102000.0,189000.0,145500.0,McLean, VA
+Statistical Data Analyst,University of South Florida,"Tampa, FL",58000 - 85000 ,4.1,0,58000.0,85000.0,71500.0,Tampa, FL
+Data Scientist II,Chiron Technology Services,Maryland,115000 - 140000 ,4.5,0,115000.0,140000.0,127500.0,Maryland,Remote
+Senior Data Scientist,Marathon Petroleum Company LP,"San Antonio, TX",104000 - 180000 ,3.9,0,104000.0,180000.0,142000.0,San Antonio, TX
+Data Scientist (Technical Leadership),Meta,"Menlo Park, CA",206000 - 281000 ,3.8,0,206000.0,281000.0,243500.0,Menlo Park, CA
+Optimization Data Scientist,Zettalogix,"Iselin, NJ",101000 - 136000 ,-1.0,0,101000.0,136000.0,118500.0,Iselin, NJ
+Data Scientist I,Bank of America,"New York, NY",105000 - 194000 ,3.9,0,105000.0,194000.0,149500.0,New York, NY
+"Data Scientist, Product Analytics",Meta,"Washington, DC",145000 - 204000 ,3.8,0,145000.0,204000.0,174500.0,Washington, DC
+"Data Scientist, GenAI Studio",The College Board,United States,150000 - 163000 ,3.8,0,150000.0,163000.0,156500.0,United States,Remote
+Senior Data Scientist,Microsoft,"Redmond, WA",120000 - 258000 ,4.1,0,120000.0,258000.0,189000.0,Redmond, WA
+Chief Data Scientist,Equinix,"Redwood City, CA",307000 - 461000 ,3.8,0,307000.0,461000.0,384000.0,Redwood City, CA
+Senior Data Scientist,Microsoft,United States,120000 - 258000 ,4.1,0,120000.0,258000.0,189000.0,United States,Remote
+Sr. Data Scientist,Pure Insurance,Remote,120000 - 145000 ,4.2,0,120000.0,145000.0,132500.0,Remote,Remote
+Data Scientist – Python | PySpark | MLflow | Predictive Maintenance | Audit Analytics (Hybrid),Navaide,"San Diego, CA",115000 - 165000 ,4.7,0,115000.0,165000.0,140000.0,San Diego, CA
+Data Science Specialist – AI Trainer,Invisible Agency,Remote,8.00 - 65.00 ,3.5,1,8.0,65.0,36.5,Remote,Remote
+"Senior Healthcare Data Scientist - AI/ML, Stats, OR",University of Maryland Medical System,"Bethesda, MD",70.34 - 112.31 ,3.6,1,70.34,112.31,91.325,Bethesda, MD
+Machine Learning Data Scientist - Health Incubation,Apple,"Cupertino, CA",181000 - 318000 ,4.1,0,181000.0,318000.0,249500.0,Cupertino, CA
+Data Scientist – Senior Associate,JPMorganChase,"Plano, TX",114000 - 170000 ,4.0,0,114000.0,170000.0,142000.0,Plano, TX
+Sr Data Scientist,Uber,"San Francisco, CA",169000 - 188000 ,3.8,0,169000.0,188000.0,178500.0,San Francisco, CA
+Principal Data Scientist,Hasbro Inc.,"Renton, WA",155000 - 232000 ,3.2,0,155000.0,232000.0,193500.0,Renton, WA
+Data Scientist,"Lafayette 148, Inc","Brooklyn, NY",100000 - 150000 ,4.0,0,100000.0,150000.0,125000.0,Brooklyn, NY
+Data Scientist (Intelligence) - Remote,Teamworks,Remote,140000 - 190000 ,4.4,0,140000.0,190000.0,165000.0,Remote,Remote
+"Data Scientist, Metrics Team",WeRide.ai,"San Jose, CA",130000 - 182000 ,4.0,0,130000.0,182000.0,156000.0,San Jose, CA
+Staff Data Scientist,The University of Chicago,"Chicago, IL",101000 - 129000 ,4.1,0,101000.0,129000.0,115000.0,Chicago, IL
+"Research Engineer / Scientist, Health AI",OpenAI,"San Francisco, CA",245000 - 440000 ,4.5,0,245000.0,440000.0,342500.0,San Francisco, CA
+ML Data Scientist,Augmodo,California,155000 - 210000 ,-1.0,0,155000.0,210000.0,182500.0,California,Remote
+Digital Marketing Data Scientist,Alten Calsoft Labs,"Palo Alto, CA",97000 - 158000 ,4.0,0,97000.0,158000.0,127500.0,Palo Alto, CA
+Principal Data Scientist - Remote,Optum,"Colorado Springs, CO",110000 - 189000 ,3.5,0,110000.0,189000.0,149500.0,Colorado Springs, CO
+Online Data Research - United States,TELUS Digital -,United States,14.00 ,3.6,1,14.0,14.0,14.0,United States,Remote
+Staff Data Scientist,Dropbox,United States,175000 - 267000 ,4.0,0,175000.0,267000.0,221000.0,United States,Remote
+Data Scientist,Piper Companies,Remote,120000 - 155000 ,3.9,0,120000.0,155000.0,137500.0,Remote,Remote
+Data Scientist - Cognitive AI,Charles Schwab Corporation,"Austin, TX",103000 - 184000 ,3.7,0,103000.0,184000.0,143500.0,Austin, TX
+"Senior Data Scientist, Product Fraud",Robinhood,"Menlo Park, CA",139000 - 210000 ,3.6,0,139000.0,210000.0,174500.0,Menlo Park, CA
+Data Scientist Skill Level 1,"Prime Time Consulting, L.L.C","Fort Meade, MD",70000 - 100000 ,-1.0,0,70000.0,100000.0,85000.0,Fort Meade, MD
+Data Scientist,World Golf Tour (WGT),"San Francisco, CA",90000 - 150000 ,3.4,0,90000.0,150000.0,120000.0,San Francisco, CA
+Data Scientist,Square Peg Technologies,"Washington, DC",89000 - 138000 ,4.1,0,89000.0,138000.0,113500.0,Washington, DC
+Senior Product Data Scientist,Waymo,"San Francisco, CA",196000 - 248000 ,4.0,0,196000.0,248000.0,222000.0,San Francisco, CA
+"Distinguished, Data Scientist - Conversation Understanding and Answering for Shopping Agents",Walmart,"Sunnyvale, CA",130000 - 338000 ,3.4,0,130000.0,338000.0,234000.0,Sunnyvale, CA
+Data Scientist,Cognizant,United States,73000 ,3.6,0,73000.0,73000.0,73000.0,United States,Remote
+"Senior Data Scientist, Crypto",SoFi,"San Francisco, CA",128000 - 240000 ,3.7,0,128000.0,240000.0,184000.0,San Francisco, CA
+Data Scientist II,Science and Technology Corporation,"Aberdeen Proving Ground, MD",85000 - 105000 ,4.0,0,85000.0,105000.0,95000.0,Aberdeen Proving Ground, MD
+Senior Data Scientist,Ocrolus,Remote,150000 ,3.6,0,150000.0,150000.0,150000.0,Remote,Remote
+Machine Learning Scientist,Snowflake,"Dublin, CA",114000 - 167000 ,3.9,0,114000.0,167000.0,140500.0,Dublin, CA
+Data Scientist,"Fullpower Technologies, Inc.","Santa Cruz, CA",130000 - 170000 ,4.3,0,130000.0,170000.0,150000.0,Santa Cruz, CA
+Senior Scientist - Experimentation,General Motors,United States,125000 - 205000 ,3.6,0,125000.0,205000.0,165000.0,United States,Remote
+Arity - Senior Data Scientist - Arity,Arity,Remote,96000 - 171000 ,4.2,0,96000.0,171000.0,133500.0,Remote,Remote
+Senior Data Scientist,Ritchie Bros.,"Chicago, IL",107000 - 161000 ,3.3,0,107000.0,161000.0,134000.0,Chicago, IL
+Principal Data Scientist,CVS Health,"San Juan, PR",144000 - 288000 ,3.2,0,144000.0,288000.0,216000.0,San Juan, PR
+Data Scientist,Spirent,United States,156000 - 248000 ,3.7,0,156000.0,248000.0,202000.0,United States,Remote
+Lead Bioinformatics / Data Scientist (Early‑ to Mid‑Career),DeepGene.AI,Remote,80000 - 100000 ,-1.0,0,80000.0,100000.0,90000.0,Remote,Remote
+Senior Data Scientist,Diversified Technologies,"Atlanta, GA",110000 - 133000 ,3.7,0,110000.0,133000.0,121500.0,Atlanta, GA
+Senior Full Stack Data Scientist,Allstate,Remote,96000 - 171000 ,3.4,0,96000.0,171000.0,133500.0,Remote,Remote
+AI Data Scientist,Apple,"Cupertino, CA",142000 - 214000 ,4.1,0,142000.0,214000.0,178000.0,Cupertino, CA
+Investment Data Scientist (NYC),The Carlyle Group,"New York, NY",150000 - 175000 ,3.6,0,150000.0,175000.0,162500.0,New York, NY
+"Senior Data Scientist, RegLab, Stanford Law School",Stanford University,"Stanford, CA",104000 - 128000 ,4.3,0,104000.0,128000.0,116000.0,Stanford, CA
+Data Scientist,CONSUMER AND WORKER PROTECTION,"New York, NY",88000 - 101000 ,3.4,0,88000.0,101000.0,94500.0,New York, NY
+"AIML - Machine Learning, Data and ML Innovation",Apple,"Seattle, WA",172000 - 302000 ,4.1,0,172000.0,302000.0,237000.0,Seattle, WA
+"Data Scientist, Product, Customer Engagement",Google,"Irvine, CA",132000 - 189000 ,4.3,0,132000.0,189000.0,160500.0,Irvine, CA
+Sr. Data Scientist,Esri,"Redlands, CA",96000 - 164000 ,3.9,0,96000.0,164000.0,130000.0,Redlands, CA
+"Associate Scientist, Data Science",Insmed Incorporated,"Lebanon, NH",89000 - 119000 ,4.2,0,89000.0,119000.0,104000.0,Lebanon, NH
+Staff ML/Data Scientist,Rivian and VW Group Technology,"Palo Alto, CA",190000 - 258000 ,3.5,0,190000.0,258000.0,224000.0,Palo Alto, CA
+Senior Data Scientist,"Changing Technologies, Inc.","Atlanta, GA",80.00 ,-1.0,1,80.0,80.0,80.0,Atlanta, GA
+Data Scientist,Capgemini,"Camden, NJ",41.61 - 65.01 ,3.8,1,41.61,65.01,53.31,Camden, NJ
+5699 Data Scientist 4,Infoorigin inc,"Richmond, VA",56.45 - 67.98 ,3.6,1,56.45,67.98,62.215,Richmond, VA
+Data Scientist,"Avosys Technology, Inc.","Dayton, OH",63000 - 103000 ,2.7,0,63000.0,103000.0,83000.0,Dayton, OH
+Data Scientist (Junior) OBIQUA (Data Scientist 1) 24519,HII,"Reston, VA",70000 - 100000 ,3.5,0,70000.0,100000.0,85000.0,Reston, VA
+Staff Data Scientist - Damages,Hertz,"Estero, FL",160000 ,3.8,0,160000.0,160000.0,160000.0,Estero, FL
+"Data Scientist, Electrical Hardware",Rivian,"Palo Alto, CA",186000 - 233000 ,3.5,0,186000.0,233000.0,209500.0,Palo Alto, CA
+Data Analyst AI & Workflow Developer,Migrant Health Center,"Mayaguez, PR",58000 - 105000 ,4.0,0,58000.0,105000.0,81500.0,Mayaguez, PR
+Senior Data Scientist,Epic Games,"Cary, NC",131000 - 170000 ,3.7,0,131000.0,170000.0,150500.0,Cary, NC
+"Data Scientist II, CNN Digital Products & Services",Warner Bros. Discovery,"New York, NY",83000 - 153000 ,3.6,0,83000.0,153000.0,118000.0,New York, NY
+Senior Data Scientist,Basis Technologies,Remote,118000 - 183000 ,4.3,0,118000.0,183000.0,150500.0,Remote,Remote
+Machine Learning Scientist,Ford Motor Company,"Palo Alto, CA",142000 - 186000 ,4.0,0,142000.0,186000.0,164000.0,Palo Alto, CA
+Data Scientist II,RELX,"Alpharetta, GA",99000 - 130000 ,4.0,0,99000.0,130000.0,114500.0,Alpharetta, GA
+Data Scientist,ICF,"Reston, VA",74000 - 125000 ,3.7,0,74000.0,125000.0,99500.0,Reston, VA
+Senior Data Scientist - Experimentation,Apple,"New York, NY",181000 - 318000 ,4.1,0,181000.0,318000.0,249500.0,New York, NY
+"Data Scientist or Python Developer(Full-Time)(Face to Face Interview in Reston, VA)",ShakTeck Corp,"Reston, VA",95000 - 100000 ,-1.0,0,95000.0,100000.0,97500.0,Reston, VA
+"Senior Data Scientist, Marketing",Dropbox,Remote,150000 - 228000 ,4.0,0,150000.0,228000.0,189000.0,Remote,Remote
+Senior Data Scientist,ASM International,"Phoenix, AZ",128000 - 170000 ,2.8,0,128000.0,170000.0,149000.0,Phoenix, AZ
+Solution Data Scientist (Fraud & AML),DataVisor,"Mountain View, CA",135000 - 160000 ,4.4,0,135000.0,160000.0,147500.0,Mountain View, CA
+Data Scientist,RxSense,"Boston, MA",85000 - 127000 ,3.7,0,85000.0,127000.0,106000.0,Boston, MA
+Cardiovascular Data Scientist,University of Utah Health,"Salt Lake City, UT",79000 - 129000 ,4.2,0,79000.0,129000.0,104000.0,Salt Lake City, UT
+Senior Data Scientist,Venture Global,"Arlington, VA",117000 - 169000 ,3.8,0,117000.0,169000.0,143000.0,Arlington, VA
+Data Scientist,Blue Origin,"Seattle, WA",137000 - 192000 ,3.1,0,137000.0,192000.0,164500.0,Seattle, WA
+Lead Data Scientist,"Astrana Health, Inc.",Remote,180000 - 220000 ,3.3,0,180000.0,220000.0,200000.0,Remote,Remote
+Senior Data Scientist- Banking,FirstBank Holding Company,"Lakewood, CO",105000 - 140000 ,3.7,0,105000.0,140000.0,122500.0,Lakewood, CO
+AI Data Annotator - Contractor (potential full-time),"Wyze Labs, Inc","Kirkland, WA",52000 - 73000 ,-1.0,0,52000.0,73000.0,62500.0,Kirkland, WA
+Sr. Data Scientist I,Partnership HealthPlan of California,"Fairfield, CA",136000 - 177000 ,-1.0,0,136000.0,177000.0,156500.0,Fairfield, CA
+"Data Scientist, RWE Clinical Trials - Remote",WALGREENS,"Deerfield, IL",89000 - 204000 ,3.1,0,89000.0,204000.0,146500.0,Deerfield, IL
+"Software Engineer, Online Storage",OpenAI,"San Francisco, CA",255000 - 405000 ,4.5,0,255000.0,405000.0,330000.0,San Francisco, CA
+FORENSIC SCIENTIST DATA REVIEW II,Abbott,"Gretna, LA",20.60 - 41.20 ,3.8,1,20.6,41.2,30.900000000000002,Gretna, LA
+TikTok Shop - Data Scientist - User Growth,TikTok,"Seattle, WA",168000 - 313000 ,3.2,0,168000.0,313000.0,240500.0,Seattle, WA
+Data Scientist,Chubb,"Jersey City, NJ",87000 - 148000 ,3.7,0,87000.0,148000.0,117500.0,Jersey City, NJ
+Data Scientist,Everwatch,"Annapolis Junction, MD",84.14 - 96.16 ,3.1,1,84.14,96.16,90.15,Annapolis Junction, MD
+"Data Scientist, (Technical Leadership) - Retail Analytics",Meta,"Menlo Park, CA",206000 - 281000 ,3.8,0,206000.0,281000.0,243500.0,Menlo Park, CA
+Data Analyst/Scientist,Peraton,"Herndon, VA",112000 - 179000 ,3.7,0,112000.0,179000.0,145500.0,Herndon, VA
+Data Scientist,SAIC,"Honolulu, HI",120000 - 160000 ,4.0,0,120000.0,160000.0,140000.0,Honolulu, HI
+BSA AML & OFAC Sanctions Model Validation Specialist ( Modeler/ Data Scientist),Finoptics LLC,United States,50.00 - 100.00 ,-1.0,1,50.0,100.0,75.0,United States,Remote
+Data Scientist - Curriculum Analytics,Western Governors University,"Salt Lake City, UT",96000 - 144000 ,3.2,0,96000.0,144000.0,120000.0,Salt Lake City, UT
+Data Scientist,Cape Fox Federal Integrators,"Wright Patterson AFB, OH",96000 - 120000 ,4.2,0,96000.0,120000.0,108000.0,Wright Patterson AFB, OH
+Data Scientist II - Machine Learning,Tailored Brands,"Dublin, CA",107000 - 135000 ,3.4,0,107000.0,135000.0,121000.0,Dublin, CA
+Operations Research Analyst / Data Scientist,Apogee Integration LLC,"Chantilly, VA",105000 - 148000 ,4.4,0,105000.0,148000.0,126500.0,Chantilly, VA
+"Research Data Scientist, Ads Safety and Spam",Google,"Los Angeles, CA",141000 - 202000 ,4.3,0,141000.0,202000.0,171500.0,Los Angeles, CA
+Data Scientist,Altus Consulting Corp,"Herndon, VA",86000 - 125000 ,4.9,0,86000.0,125000.0,105500.0,Herndon, VA
+Data Scientist,h2o.ai,"Austin, TX",103000 - 149000 ,3.1,0,103000.0,149000.0,126000.0,Austin, TX
+Staff Computational Data Scientist,Northrop Grumman,"Fairfax, VA",188000 - 282000 ,3.9,0,188000.0,282000.0,235000.0,Fairfax, VA
+Data Privacy Scientist,HealthVerity,"Philadelphia, PA",100000 - 190000 ,2.9,0,100000.0,190000.0,145000.0,Philadelphia, PA
+AI/ML Data Scientist,Innovative Defense Technologies (IDT),"Arlington, VA",90000 - 184000 ,4.3,0,90000.0,184000.0,137000.0,Arlington, VA
+Data Scientist Manager,Conde Nast,"New York, NY",170000 ,3.2,0,170000.0,170000.0,170000.0,New York, NY
+Senior Data Scientist,Info Origin,"Atlanta, GA",59.95 - 75.26 ,3.6,1,59.95,75.26,67.605,Atlanta, GA
+Data Scientist,JYG Innovations,"Fairborn, OH",72000 - 117000 ,3.3,0,72000.0,117000.0,94500.0,Fairborn, OH
+Sr. Data Scientist,NextGen | GTA Telecom,"Greenwood Village, CO",55.64 - 65.71 ,-1.0,1,55.64,65.71,60.675,Greenwood Village, CO
+Senior Data Scientist,Warner Bros. Discovery,"Bellevue, WA",120000 - 222000 ,3.6,0,120000.0,222000.0,171000.0,Bellevue, WA
+Data Scientist II,JMark Services Inc.,"Suffolk, VA",120000 - 160000 ,3.6,0,120000.0,160000.0,140000.0,Suffolk, VA
+"Senior Data Scientist, Investing",Wealthfront,"Palo Alto, CA",184000 - 211000 ,4.2,0,184000.0,211000.0,197500.0,Palo Alto, CA
+Lead Data Scientist,Hanosys.inc,"Austin, TX",55.13 - 66.39 ,-1.0,1,55.13,66.39,60.760000000000005,Austin, TX
+Senior Data Scientist,Comscore,Remote,120000 - 140000 ,3.7,0,120000.0,140000.0,130000.0,Remote,Remote
+Data Scientist,Select Minds LLC,"Dallas, TX",65.00 - 75.00 ,5.0,1,65.0,75.0,70.0,Dallas, TX
+Senior AI Data Scientist,Apple,"Cupertino, CA",203000 - 306000 ,4.1,0,203000.0,306000.0,254500.0,Cupertino, CA
+Data Scientist,Odyssey Consulting,"Dayton, OH",78000 - 118000 ,3.6,0,78000.0,118000.0,98000.0,Dayton, OH
+Associate Data Scientist,Unified,"San Antonio, TX",73000 - 106000 ,4.0,0,73000.0,106000.0,89500.0,San Antonio, TX
+Senior Decision Scientist,paypal,"Chicago, IL",124000 - 213000 ,3.7,0,124000.0,213000.0,168500.0,Chicago, IL
+"Data Scientist- Pennington, NJ","Career Mentors, LLC","Pennington, NJ",78.00 - 83.00 ,4.8,1,78.0,83.0,80.5,Pennington, NJ
+Senior Data Scientist – Product,Corteva Agriscience,"Amador City, CA",113000 - 142000 ,4.0,0,113000.0,142000.0,127500.0,Amador City, CA
+Data Scientist,KBR,"Beavercreek, OH",71000 - 116000 ,4.1,0,71000.0,116000.0,93500.0,Beavercreek, OH
+"Data Scientist, Department of Women's Health, Dell Medical School",University of Texas at Austin,"Austin, TX",64000 - 120000 ,4.1,0,64000.0,120000.0,92000.0,Austin, TX
+Senior Data Scientist - Vol Overlay,Chicago Trading Company (CTC),"New York, NY",175000 - 225000 ,3.9,0,175000.0,225000.0,200000.0,New York, NY
+Data Scientist,"Odyssey Systems Consulting Group, Ltd.","Dayton, OH",75000 - 114000 ,4.0,0,75000.0,114000.0,94500.0,Dayton, OH
+Data Scientist,National Capitol Contracting (NCC),United States,100000 - 120000 ,3.6,0,100000.0,120000.0,110000.0,United States,Remote
+Data Scientist,City of Boston,United States,81000 - 120000 ,3.6,0,81000.0,120000.0,100500.0,United States,Remote
+Senior Biopharmaceutical Data Scientist (Contract),Umoja Biopharma,"Louisville, CO",143000 - 176000 ,3.4,0,143000.0,176000.0,159500.0,Louisville, CO
+Data Scientist,Rapid Strategy,"Washington, DC",100000 - 151000 ,1.0,0,100000.0,151000.0,125500.0,Washington, DC
+Sr. Data Scientist,"Odyssey Systems Consulting Group, Ltd.","Beavercreek, OH",94000 - 131000 ,4.0,0,94000.0,131000.0,112500.0,Beavercreek, OH
+"Data Scientist, Consultant",Blue Shield of California,"Oakland, CA",116000 - 167000 ,3.7,0,116000.0,167000.0,141500.0,Oakland, CA
+Sr AI Data Scientist,MEDSTAR HEALTH,"Washington, DC",112000 - 213000 ,3.8,0,112000.0,213000.0,162500.0,Washington, DC
+Data Scientist II - Faculty Analytics,Western Governors University,"Salt Lake City, UT",116000 - 174000 ,3.2,0,116000.0,174000.0,145000.0,Salt Lake City, UT
+"Senior Data Scientist, Speciality Care",Spring Health,"New York, NY",159000 - 194000 ,3.1,0,159000.0,194000.0,176500.0,New York, NY
+Computer Scientist IV - Data Engineer,JT4 LLC,"Edwards, CA",128000 - 180000 ,3.6,0,128000.0,180000.0,154000.0,Edwards, CA
+Lead Data Scientist,Hanosys.inc,Remote,54.12 - 65.17 ,-1.0,1,54.12,65.17,59.644999999999996,Remote,Remote
+Human Performance Data Scientist,JAG Holdings Group LLC,"Chicago, IL",65000 - 75000 ,3.0,0,65000.0,75000.0,70000.0,Chicago, IL
+Senior Data Scientist,Oncourse Home Solutions,"Naperville, IL",100000 - 175000 ,3.6,0,100000.0,175000.0,137500.0,Naperville, IL
+DATA SCIENTIST AND MACHINE LEARNING,Zettalogix,"Iselin, NJ",100000 - 145000 ,-1.0,0,100000.0,145000.0,122500.0,Iselin, NJ
+Data Scientist,Momentum,"Saint Louis, MO",160000 - 170000 ,3.9,0,160000.0,170000.0,165000.0,Saint Louis, MO
+Data Scientist,Fractal Analytics,"New York, NY",150000 - 165000 ,4.2,0,150000.0,165000.0,157500.0,New York, NY
+Data Scientist,Blue Sky Innovative Solutions,"Washington, DC",96000 - 144000 ,4.4,0,96000.0,144000.0,120000.0,Washington, DC
+Sustainability Data Analyst (Experienced or Senior),Boeing,"Mesa, AZ",90000 - 166000 ,3.7,0,90000.0,166000.0,128000.0,Mesa, AZ
+"Data Scientist, AdTech",Nexxen,"New York, NY",110000 - 160000 ,3.6,0,110000.0,160000.0,135000.0,New York, NY
+Data Scientist,Kalibri Labs,"Washington, DC",80000 - 120000 ,3.0,0,80000.0,120000.0,100000.0,Washington, DC
+Sr. Data Scientist,1Fivetech,"Dallas, TX",55.00 - 60.00 ,-1.0,1,55.0,60.0,57.5,Dallas, TX
+Senior Data Scientist,"Vizient, Inc.","Chicago, IL",102000 - 179000 ,3.4,0,102000.0,179000.0,140500.0,Chicago, IL
+"Data Scientist / Senior Data Scientist, Analytics",DoorDash,"San Francisco, CA",124000 - 271000 ,3.6,0,124000.0,271000.0,197500.0,San Francisco, CA
+Risk Data AI/ML Engineer,SoFi,"Frisco, TX",144000 - 248000 ,3.7,0,144000.0,248000.0,196000.0,Frisco, TX
+Data Scientist,Hire Integrated,"Atlanta, GA",81000 - 118000 ,4.9,0,81000.0,118000.0,99500.0,Atlanta, GA
+Data Scientist,"NinjaOne, LLC","Austin, TX",120000 - 160000 ,4.0,0,120000.0,160000.0,140000.0,Austin, TX
+Data Scientist,KBR,"Wright Patterson AFB, OH",71000 - 115000 ,4.1,0,71000.0,115000.0,93000.0,Wright Patterson AFB, OH
+Data Scientist-Sr Consultant II - National General,National General,Remote,96000 - 153000 ,3.2,0,96000.0,153000.0,124500.0,Remote,Remote
+Data Scientist,Nyla Technology Solutions,"Washington, DC",90000 - 106000 ,4.7,0,90000.0,106000.0,98000.0,Washington, DC
+AI & GEN AI Data Scientist-Experienced Associate,PRICE WATERHOUSE COOPERS,"Detroit, MI",63000 - 140000 ,3.7,0,63000.0,140000.0,101500.0,Detroit, MI
+Data Scientist – Production Support (Palantir),Nova Web Technologies,"Atlanta, GA",90000 - 132000 ,4.5,0,90000.0,132000.0,111000.0,Atlanta, GA
+Sr. Growth Data Scientist,FairSquare,"Atlanta, GA",100000 - 160000 ,5.0,0,100000.0,160000.0,130000.0,Atlanta, GA
+Senior Data Scientist,"Techmorgonite Software Solutions, LLC.","Atlanta, GA",75.26 ,-1.0,1,75.26,75.26,75.26,Atlanta, GA
+Data Scientist,Elder Research,United States,117000 - 196000 ,4.4,0,117000.0,196000.0,156500.0,United States,Remote
+Data Scientist Senior,General Dynamics Information Technology,United States,102000 - 138000 ,4.0,0,102000.0,138000.0,120000.0,United States,Remote
+Data Scientist,"BlueHalo, an AV Company",United States,107000 - 212000 ,3.8,0,107000.0,212000.0,159500.0,United States,Remote
+Staff Data Scientist,Cint,"New York, NY",167000 - 200000 ,3.4,0,167000.0,200000.0,183500.0,New York, NY
+Artificial Intelligence Research Faculty,Cedars-Sinai,"Los Angeles, CA",71000 - 450000 ,3.9,0,71000.0,450000.0,260500.0,Los Angeles, CA
+Senior Data Scientist - Outreach Analytics,Western Governors University,"Salt Lake City, UT",140000 - 217000 ,3.2,0,140000.0,217000.0,178500.0,Salt Lake City, UT
+Lead Data Scientist (P2006),84.51°,"Cincinnati, OH",91000 - 219000 ,2.9,0,91000.0,219000.0,155000.0,Cincinnati, OH
+AI Machine Learning Scientist,Elevance Health,"Chicago, IL",148000 - 149000 ,3.4,0,148000.0,149000.0,148500.0,Chicago, IL
+Data Scientist,Corpay,"Atlanta, GA",81000 - 120000 ,3.1,0,81000.0,120000.0,100500.0,Atlanta, GA
+Sr. Data Scientist I (5905),MetroStar,"Quantico, VA",103000 - 164000 ,3.9,0,103000.0,164000.0,133500.0,Quantico, VA
+"Sr. Data Scientist, Machine Learning",Varo Bank,"New York, NY",130000 - 180000 ,3.4,0,130000.0,180000.0,155000.0,New York, NY
+Data Scientist,Auto-Owners Insurance,"Lansing, MI",82000 - 112000 ,3.1,0,82000.0,112000.0,97000.0,Lansing, MI
+Senior Data Scientist (Applied),"Guideline, Inc.",Remote,138000 - 199000 ,3.7,0,138000.0,199000.0,168500.0,Remote,Remote
+Basketball Data Scientist,Swish Analytics,Remote,120000 - 175000 ,4.8,0,120000.0,175000.0,147500.0,Remote,Remote
+ML Ops Engineer (Remote),Bluegeko,Remote,175000 ,-1.0,0,175000.0,175000.0,175000.0,Remote,Remote
+GenAI Data Scientist Engineer,Dataquad Inc,"Raleigh, NC",44.15 - 53.17 ,4.1,1,44.15,53.17,48.66,Raleigh, NC
+Data Scientist Sr,COUNTRY Financial,"Bloomington, IL",109000 - 150000 ,3.8,0,109000.0,150000.0,129500.0,Bloomington, IL
+Senior Data Scientist,T-Rex Solutions,"Washington, DC",145000 - 175000 ,4.3,0,145000.0,175000.0,160000.0,Washington, DC
+Data Scientist,Bridge Core (BCore),"Chantilly, VA",103000 - 145000 ,5.0,0,103000.0,145000.0,124000.0,Chantilly, VA
+Data Scientist (Healthcare AI),Savas Management Center LLC,"Scottsdale, AZ",80000 - 130000 ,2.5,0,80000.0,130000.0,105000.0,Scottsdale, AZ
+Data Scientist Sr. / TSRI-Research Support / Full-time / Days,Children's Hospital Los Angeles,"Los Angeles, CA",70000 - 112000 ,3.9,0,70000.0,112000.0,91000.0,Los Angeles, CA
+Data Scientist,Engage3,"Scottsdale, AZ",77000 - 119000 ,3.5,0,77000.0,119000.0,98000.0,Scottsdale, AZ
+Senior Data Scientist,"NRG Energy, Inc","Lehi, UT",118000 - 154000 ,3.8,0,118000.0,154000.0,136000.0,Lehi, UT
+Data Scientist,Peoplevisor LLC,"Irving, TX",92000 - 130000 ,-1.0,0,92000.0,130000.0,111000.0,Irving, TX
+Data Scientist,TISTA Science and Technology Corporation,Remote,110000 - 130000 ,3.8,0,110000.0,130000.0,120000.0,Remote,Remote
+ETL Analyst/Data Scientist,The University of Chicago Medicine,"Chicago, IL",138000 - 185000 ,3.5,0,138000.0,185000.0,161500.0,Chicago, IL
+AI Data Scientist,CyberArk,"Newton, MA",126000 - 175000 ,4.0,0,126000.0,175000.0,150500.0,Newton, MA
+Senior Data Scientist,Blue Onion Labs,Remote,140000 - 190000 ,-1.0,0,140000.0,190000.0,165000.0,Remote,Remote
+Senior Data Scientist,Hanosys.inc,"Houston, TX",56.53 - 68.08 ,-1.0,1,56.53,68.08,62.305,Houston, TX
+Data Scientist,DrFirst Inc.,United States,100000 - 120000 ,4.1,0,100000.0,120000.0,110000.0,United States,Remote
+Senior Data Scientist - ML,CVS Health,"New York, NY",107000 - 222000 ,3.2,0,107000.0,222000.0,164500.0,New York, NY
+Data Scientist – Clinical and Operational Analytics,"VENESCO, LLC","Dayton, OH",70000 - 115000 ,3.9,0,70000.0,115000.0,92500.0,Dayton, OH
+"Sr Analyst, Forecasting - CNN Data Analytics, Science & Insights",Warner Bros. Discovery,"New York, NY",75000 - 140000 ,3.6,0,75000.0,140000.0,107500.0,New York, NY
+Senior Data Scientist (Remote - US Based),Age of Learning,United States,140000 - 170000 ,4.1,0,140000.0,170000.0,155000.0,United States,Remote
+Senior Data Scientist II,iHerb,"Irvine, CA",177000 - 265000 ,4.0,0,177000.0,265000.0,221000.0,Irvine, CA
+Senior Data Scientist,Angi,"Denver, CO",150000 - 220000 ,3.5,0,150000.0,220000.0,185000.0,Denver, CO
+Decision Scientist,Western Governors University,"Raleigh, NC",107000 - 165000 ,3.2,0,107000.0,165000.0,136000.0,Raleigh, NC
+"Research Scientist, Machine Learning / AI",Basis Research Institute,"Cambridge, MA",120000 - 180000 ,-1.0,0,120000.0,180000.0,150000.0,Cambridge, MA
+Data Scientist,HawkEye 360,United States,125000 - 160000 ,3.3,0,125000.0,160000.0,142500.0,United States,Remote
+"Senior Data Scientist, Recommendations",Suno,"New York, NY",170000 - 230000 ,4.3,0,170000.0,230000.0,200000.0,New York, NY
+Data Scientist (GenAI),SN Cloud Solutions,"Pequea, PA",90000 - 140000 ,5.0,0,90000.0,140000.0,115000.0,Pequea, PA
+Senior Data Scientist (Remote),Yembo,Remote,130000 ,4.7,0,130000.0,130000.0,130000.0,Remote,Remote
+Senior Data Scientist,Kraft Heinz Company,"Chicago, IL",139000 - 148000 ,3.6,0,139000.0,148000.0,143500.0,Chicago, IL
+"Senior Data Scientist, Payments & Fraud",Lime,United States,107000 - 147000 ,3.4,0,107000.0,147000.0,127000.0,United States,Remote
+Data Scientist II - AI/ML,Cotiviti,Remote,110000 - 140000 ,3.5,0,110000.0,140000.0,125000.0,Remote,Remote
+Sr Data Scientist,PeopleConnect,"San Diego, CA",126000 - 166000 ,3.6,0,126000.0,166000.0,146000.0,San Diego, CA
+Data Scientist – Machine Learning Focus,Adidev Technologies Inc,"San Jose, CA",108000 - 171000 ,4.0,0,108000.0,171000.0,139500.0,San Jose, CA
+"Sr Associate Scientist, Data Analytics -Cell Therapy",Kite Pharma,"Santa Monica, CA",115000 - 149000 ,3.8,0,115000.0,149000.0,132000.0,Santa Monica, CA
+Data Scientist,Fidelity Partners,"Wright Patterson AFB, OH",90000 - 95000 ,3.5,0,90000.0,95000.0,92500.0,Wright Patterson AFB, OH
+Data Scientist - Senior - Intelligence,Royce Geo,Joint Base Lewis McChord,110000 - 140000 ,3.6,0,110000.0,140000.0,125000.0,Joint Base Lewis McChord,Remote
+Machine Learning Software Engineer-Associate,JPMorganChase,"Plano, TX",109000 - 170000 ,4.0,0,109000.0,170000.0,139500.0,Plano, TX
+Principal Data Scientist,IBR (Imagine Believe Realize),Remote,140000 - 171000 ,4.0,0,140000.0,171000.0,155500.0,Remote,Remote
+"AI Engineer, Data Scaling, Self-Driving",Tesla,"Palo Alto, CA",140000 - 420000 ,3.5,0,140000.0,420000.0,280000.0,Palo Alto, CA
+Data Scientist II,Parkview Health,"Fort Wayne, IN",83000 - 116000 ,3.7,0,83000.0,116000.0,99500.0,Fort Wayne, IN
+Senior Data Scientist - DataSF (1043),City and County of San Francisco,"San Francisco, CA",130000 - 174000 ,4.0,0,130000.0,174000.0,152000.0,San Francisco, CA
+Experienced Data Scientist - Fully Cleared,Intelliforce-IT Solutions Group,"Annapolis Junction, MD",138000 - 182000 ,4.5,0,138000.0,182000.0,160000.0,Annapolis Junction, MD
+Senior Data Scientist,SecurityScorecard,"Austin, TX",158000 - 183000 ,3.3,0,158000.0,183000.0,170500.0,Austin, TX
+Senior Data Scientist – Generosity,FanDuel,"Jersey City, NJ",138000 - 173000 ,4.0,0,138000.0,173000.0,155500.0,Jersey City, NJ
+Senior Data Analyst,Loyal,"Atlanta, GA",65.00 - 80.00 ,2.4,1,65.0,80.0,72.5,Atlanta, GA
+Data Scientist,Govini,"Pittsburgh, PA",82000 - 124000 ,3.6,0,82000.0,124000.0,103000.0,Pittsburgh, PA
+Machine Learning Engineer/Data Scientist,Contrast,"Chicago, IL",130000 - 150000 ,5.0,0,130000.0,150000.0,140000.0,Chicago, IL
+Data Scientist,Syntelligent Analytic Solutions,Anacostia,107000 - 115000 ,3.9,0,107000.0,115000.0,111000.0,Anacostia,Remote
+Machine Learning Engineer,Allstate,Remote,104000 - 188000 ,3.4,0,104000.0,188000.0,146000.0,Remote,Remote
+Data Scientist II,Hinge-Health,"San Francisco, CA",124000 - 186000 ,3.4,0,124000.0,186000.0,155000.0,San Francisco, CA
+Data Analyst (AI/ML Specialization),CSAT Solutions,"Houston, TX",52000 - 81000 ,2.4,0,52000.0,81000.0,66500.0,Houston, TX
+"Manager, Data Science",Toyota,"Plano, TX",111000 - 149000 ,4.1,0,111000.0,149000.0,130000.0,Plano, TX
+Data Scientist II,Xometry,"Denver, CO",98000 - 133000 ,3.3,0,98000.0,133000.0,115500.0,Denver, CO
+Machine Learning Engineer,Butlr,"Burlingame, CA",140000 - 180000 ,4.7,0,140000.0,180000.0,160000.0,Burlingame, CA
+Senior Data Scientist,Auction.com,"Irvine, CA",140000 - 153000 ,3.6,0,140000.0,153000.0,146500.0,Irvine, CA
+"Senior Data Scientist, EGI",Glean Technologies,"Palo Alto, CA",175000 - 210000 ,4.4,0,175000.0,210000.0,192500.0,Palo Alto, CA
+Data Scientist 3,"Prime Time Consulting, L.L.C","Aurora, CO",122000 - 181000 ,-1.0,0,122000.0,181000.0,151500.0,Aurora, CO
+"Decision Scientist, Client Analytics",Simbe Robotics,Remote,120000 - 160000 ,5.0,0,120000.0,160000.0,140000.0,Remote,Remote
+Senior Data Scientist (AdTech),Nexxen,United States,160000 - 210000 ,3.6,0,160000.0,210000.0,185000.0,United States,Remote
+Junior Research Engineer - Machine Learning Systems,University at Buffalo,"Buffalo, NY",80000 - 100000 ,4.3,0,80000.0,100000.0,90000.0,Buffalo, NY
+Senior Data Scientist,"Constellation Software, Inc.","New York, NY",165000 - 185000 ,4.1,0,165000.0,185000.0,175000.0,New York, NY
+Machine Learning Engineer - Foundational Models,Stitch Fix,Remote,132000 - 194000 ,3.2,0,132000.0,194000.0,163000.0,Remote,Remote
+Biomedical Machine Learning Engineer,Analog Devices,"Wilmington, MA",109000 - 150000 ,3.8,0,109000.0,150000.0,129500.0,Wilmington, MA

@@ -37,5 +37,6 @@ df['state']=df['location'].str.split(',').str[1]
 #df['state']=df['state'].apply(lambda x: x['state'] if x.notna() else 'Remote')
 #df['state']=df['state'].fillna('Remote')
 df['state'] = df.apply(lambda row: row['state'] if pd.notna(row['state']) else 'Remote', axis=1)
+df.to_csv("Cleaned_Salary.csv",index=False)
 #print(df.state.value_counts())
 #print(df.info())
