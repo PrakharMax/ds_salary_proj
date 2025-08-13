@@ -44,6 +44,6 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 # EDA
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
-![Images]<img src="images/diagram.png" alt="System Diagram" width="500"/>
+![Images]<img src="images/ds_1.png" alt="System Diagram" width="500"/>
 ![Images](images/ds_2.png)
 ![Images](images/ds_3.png)
