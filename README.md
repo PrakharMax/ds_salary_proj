@@ -4,12 +4,11 @@
 - Scraped over 1000 job descriptions from glassdoor using python and selenium.
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-- Built a client facing API using flask.
+- 
 # Code and Resources Used
 
 - Python Version: 3.7
 - Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-- For Web Framework Requirements: `pip install -r requirements.txt`
 
 # Web Scraping
 
@@ -45,3 +44,6 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 # EDA
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+![Images](images/ds_1.png)
+![Images](images/ds_2.png)
+![Images](images/ds_3.png)
