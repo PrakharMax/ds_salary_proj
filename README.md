@@ -1,43 +1,47 @@
-# 📦 Data Science Project (to be edited)
+# Data Science Salary Estimator: Project Overview
 
-> Trying to learn about data science project
-> 1) Glassdoor Web scrapping for data collection
+- Created a tool that estimates data science salaries (MSE ~ $11K) to help data scientists negotiate their income when they get a job.
+- Scraped over 1000 job descriptions from glassdoor using python and selenium.
+- Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
+- Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
+- Built a client facing API using flask.
+# Code and Resources Used
 
-## 📖 Table of Contents
+- Python Version: 3.7
+- Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+- For Web Framework Requirements: `pip install -r requirements.txt`
 
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+# Web Scraping
 
----
+Scrape 600-1000 job postings from glassdoor.com. With each job, we got the following:
 
-## 🧠 About
+- Job title
+- Salary Estimate
+- Job Description
+- Rating
+- Company
+- Location
 
-Brief description of your project:  
-- What problem does it solve?  
-- Who is it for?  
-- What makes it unique?
+- # Data Cleaning
 
-## ✨ Features
+After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
-- ✅ Feature 1
-- 🚀 Feature 2
-- 🔒 Feature 3
-- 📊 Feature 4 (optional)
+- Parsed numeric data out of salary
+- Made columns for employer provided salary and hourly wages
+- Removed rows without salary
+- Made a new column for company state
+- Column for simplified job title and Seniority
+  
+# Data Cleaning
 
-## 🛠 Installation
+After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/project-name.git
+- Parsed numeric data out of salary
+- Made columns for employer provided salary and hourly wages
+- Removed rows without salary
+- Parsed rating out of company text
+- Made a new column for company state
 
-# Go into the directory
-cd project-name
+# EDA
 
-# Install dependencies (example for Python)
-pip install -r requirements.txt
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
